@@ -58,16 +58,21 @@ export const Toolbar: React.FC<ToolbarProps> = ({
     <header className="w-full max-w-4xl mx-auto px-4 py-3 flex flex-wrap items-center justify-between gap-3 text-stone-200">
       {/* Brand Title & Year Selector */}
       <div className="flex items-center gap-3">
-        <div className="flex items-center gap-2">
-          <div className="w-8 h-8 rounded-lg bg-[#c92a2a] text-white flex items-center justify-center font-serif font-black text-lg shadow-md border border-red-500">
-            F
+        <div className="flex items-center gap-2.5">
+          <div className="h-9 w-9 rounded-lg bg-white p-1 flex items-center justify-center shadow-md border border-stone-700">
+            <img 
+              src="./andalo-logo.png" 
+              alt="Andalò Gianni" 
+              className="w-full h-full object-contain" 
+            />
           </div>
           <div>
-            <h1 className="font-serif font-black tracking-tight text-lg sm:text-xl text-stone-100 leading-none">
-              FerroCalendar
+            <h1 className="font-serif font-black tracking-tight text-lg sm:text-xl text-stone-100 leading-none flex items-center gap-1.5">
+              <span>FerroCalendar</span>
+              <span className="text-xs font-sans font-medium text-stone-400 hidden sm:inline">• Andalò Gianni</span>
             </h1>
             <p className="text-[10px] text-stone-400 font-mono tracking-wider">
-              CALENDARIO A STRAPPO
+              MECCANICA DI ALTA PRECISIONE • IMOLA
             </p>
           </div>
         </div>

@@ -41,15 +41,26 @@ export function generateCalendarSvg(day: CalendarDay, year: number = 2027): stri
     <rect width="500" height="730" rx="8" class="bg-paper" />
 
     <!-- Top Cardboard Header -->
-    <rect width="500" height="60" rx="8 8 0 0" fill="#1c1917" />
-    <circle cx="250" cy="16" r="6" fill="#44403c" stroke="#1c1917" stroke-width="2" />
-    <rect x="200" y="26" width="100" height="24" rx="12" fill="#c92a2a" />
-    <text x="250" y="42" font-family="'Cinzel', serif" font-weight="900" font-size="14" fill="#ffffff" text-anchor="middle" letter-spacing="2">FERRO</text>
-    <text x="35" y="40" font-family="sans-serif" font-weight="bold" font-size="11" fill="#e7e5e4">OFFICINA FERRO</text>
-    <text x="465" y="40" font-family="sans-serif" font-size="11" fill="#e7e5e4" text-anchor="end">ferrocalendar.it</text>
+    <rect width="500" height="65" rx="8 8 0 0" fill="#1c1917" />
+    <circle cx="250" cy="14" r="5" fill="#44403c" stroke="#1c1917" stroke-width="2" />
+    
+    <!-- Center Logo Badge -->
+    <rect x="175" y="18" width="150" height="34" rx="4" fill="#ffffff" />
+    <text x="250" y="34" font-family="sans-serif" font-weight="900" font-size="13" fill="#c92a2a" text-anchor="middle">Andalò Gianni</text>
+    <text x="250" y="46" font-family="sans-serif" font-weight="bold" font-size="7" fill="#1c1917" text-anchor="middle" letter-spacing="0.5">MECCANICA DI ALTA PRECISIONE</text>
+
+    <!-- Left sub-info -->
+    <text x="25" y="32" font-family="sans-serif" font-weight="bold" font-size="9.5" fill="#ffffff">Andalò Gianni srl</text>
+    <text x="25" y="44" font-family="sans-serif" font-size="8" fill="#a8a29e">Via Serraglio, 46 - Imola</text>
+    <text x="25" y="55" font-family="sans-serif" font-size="8" fill="#a8a29e">Tel. 0542 640387</text>
+
+    <!-- Right sub-info -->
+    <text x="475" y="32" font-family="sans-serif" font-weight="bold" font-size="9.5" fill="#ffffff" text-anchor="end">www.andalogianni.com</text>
+    <text x="475" y="44" font-family="sans-serif" font-size="8" fill="#a8a29e" text-anchor="end">info@andalogianni.com</text>
+    <text x="475" y="55" font-family="sans-serif" font-weight="bold" font-size="8" fill="#fbbf24" text-anchor="end">Edizione Ferro 2027</text>
 
     <!-- Perforation line -->
-    <line x1="10" y1="65" x2="490" y2="65" stroke="#78716c" stroke-width="2" stroke-dasharray="6,4" />
+    <line x1="10" y1="70" x2="490" y2="70" stroke="#78716c" stroke-width="2" stroke-dasharray="6,4" />
 
     <!-- Distressed Red Border -->
     <g filter="url(#brush)">
@@ -97,7 +108,7 @@ export function generateCalendarSvg(day: CalendarDay, year: number = 2027): stri
     ` : ''}
 
     <!-- Footer -->
-    <text x="250" y="690" class="footer">www.ferrocalendar.it • Calendario di Ferro • ${day.dayOfYear}/365</text>
+    <text x="250" y="695" class="footer">www.andalogianni.com • Andalò Gianni srl (Imola) • ${day.dayOfYear}/365</text>
   </svg>`;
 }
 

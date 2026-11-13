@@ -183,7 +183,7 @@ export const App: React.FC = () => {
       {/* Footer */}
       <footer className="no-print py-3 text-center text-xs text-stone-500 border-t border-stone-800/80">
         <p>
-          FerroCalendar 2027 • Ispirato al classico calendario a strappo • 365 verità senza filtri
+          FerroCalendar 2027 • Andalò Gianni srl • Via Serraglio, 46 - Imola (BO) • Meccanica di alta precisione dal 1968
         </p>
       </footer>
 

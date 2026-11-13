@@ -134,9 +134,9 @@ export const CalendarLeaf: React.FC<CalendarLeafProps> = ({
       {/* BOTTOM FOOTER SECTION: Classic Calendar Info Line */}
       <div className="relative z-10 pb-4 px-8 text-center">
         <div className="flex items-center justify-center gap-1.5 text-[8px] sm:text-[9px] text-stone-500 font-serif tracking-wider">
-          <span>www.ferrocalendar.it</span>
+          <span>www.andalogianni.com</span>
           <span>•</span>
-          <span>Officina & Verità</span>
+          <span>Andalò Gianni - Imola</span>
           <span>•</span>
           <span>{day.dayOfYear}/365</span>
         </div>
