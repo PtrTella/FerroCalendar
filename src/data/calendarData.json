@@ -1,0 +1,6061 @@
+[
+  {
+    "day": 1,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 1,
+    "saint": "Maria Madre di Dio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Oggi non si lavora.\nÈ già tanto se si mette in moto il fegato.",
+    "closing": null,
+    "rawLines": [
+      "“Oggi non si lavora.",
+      "È già tanto se si mette in moto il fegato.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 2,
+    "saint": "S. Basilio Magno",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Siamo ancora in ferie.\nAnche la voglia di fare.",
+    "closing": null,
+    "rawLines": [
+      "“Siamo ancora in ferie.",
+      "Anche la voglia di fare.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 3,
+    "saint": "S. Genoveffa",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il calendario dice gennaio.\nNoi leggiamo ancora vacanza.",
+    "closing": null,
+    "rawLines": [
+      "“Il calendario dice gennaio.",
+      "Noi leggiamo ancora vacanza.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 4,
+    "saint": "S. Ermete",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La ripresa è vicina.\nPurtroppo.",
+    "closing": null,
+    "rawLines": [
+      "“La ripresa è vicina.",
+      "Purtroppo.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 5,
+    "saint": "S. Amelia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ultimi giorni di libertà.\nUsiamoli male.",
+    "closing": null,
+    "rawLines": [
+      "“Ultimi giorni di libertà.",
+      "Usiamoli male.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 6,
+    "saint": "Epifania del Signore",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La Befana porta via le feste.\nE pure le scuse.",
+    "closing": null,
+    "rawLines": [
+      "“La Befana porta via le feste.",
+      "E pure le scuse.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 7,
+    "saint": "S. Raimondo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che migliorano l’ambiente\nappena se ne vanno.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che migliorano l’ambiente",
+      "appena se ne vanno.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 8,
+    "saint": "S. Massimo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se devi spiegare il rispetto,\nsei già in ritardo.",
+    "closing": null,
+    "rawLines": [
+      "“Se devi spiegare il rispetto,",
+      "sei già in ritardo.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 9,
+    "saint": "S. Giuliano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non porto rancore.\nPorto memoria.",
+    "closing": null,
+    "rawLines": [
+      "“Non porto rancore.",
+      "Porto memoria.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 10,
+    "saint": "S. Aldo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La gente confonde spesso la gentilezza\ncon la disponibilità infinita.",
+    "closing": null,
+    "rawLines": [
+      "“La gente confonde spesso la gentilezza",
+      "con la disponibilità infinita.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 11,
+    "saint": "S. Igino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "2027:\nCi piace la figa.\nMangiamo la carne.\nGli unici binari che conosciamo\nsono quelli del treno.\nNon abbiamo i capelli blu.",
+    "closing": "LA VITA È FANTASTICA.",
+    "rawLines": [
+      "“2027:",
+      "Ci piace la figa.",
+      "Mangiamo la carne.",
+      "Gli unici binari che conosciamo",
+      "sono quelli del treno.",
+      "Non abbiamo i capelli blu.",
+      "LA VITA È FANTASTICA.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 12,
+    "saint": "S. Modesto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’esperienza insegna.\nLa gente insiste.",
+    "closing": null,
+    "rawLines": [
+      "“L’esperienza insegna.",
+      "La gente insiste.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 13,
+    "saint": "S. Ilario",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il problema non è sbagliare.\nÈ farlo con troppa sicurezza.",
+    "closing": null,
+    "rawLines": [
+      "“Il problema non è sbagliare.",
+      "È farlo con troppa sicurezza.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 14,
+    "saint": "S. Felice",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "A volte tacere è educazione.\nAltre volte è autocontrollo.",
+    "closing": null,
+    "rawLines": [
+      "“A volte tacere è educazione.",
+      "Altre volte è autocontrollo.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 15,
+    "saint": "S. Mauro",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non sono difficile.\nHo semplicemente smesso di tollerare il superfluo.",
+    "closing": null,
+    "rawLines": [
+      "“Non sono difficile.",
+      "Ho semplicemente smesso di tollerare il superfluo.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 16,
+    "saint": "S. Marcello",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se devi sempre dimostrare di avere ragione,\nprobabilmente hai già perso qualcosa.",
+    "closing": null,
+    "rawLines": [
+      "“Se devi sempre dimostrare di avere ragione,",
+      "probabilmente hai già perso qualcosa.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 17,
+    "saint": "S. Antonio Abate",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Alcuni hanno talmente paura di sbagliare\nche preferiscono non fare niente.",
+    "closing": null,
+    "rawLines": [
+      "“Alcuni hanno talmente paura di sbagliare",
+      "che preferiscono non fare niente.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 18,
+    "saint": "S. Liberata",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutti quelli che ti consigliano\nvogliono vederti migliorare.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutti quelli che ti consigliano",
+      "vogliono vederti migliorare.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 19,
+    "saint": "S. Mario",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se una persona cambia atteggiamento appena dici no,\nnon voleva te. Voleva la tua disponibilità.",
+    "closing": null,
+    "rawLines": [
+      "“Se una persona cambia atteggiamento appena dici no,",
+      "non voleva te. Voleva la tua disponibilità.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 20,
+    "saint": "S. Sebastiano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il silenzio è spesso la risposta migliore.\nSoprattutto quando l’alternativa è spiegare l’ovvio.",
+    "closing": null,
+    "rawLines": [
+      "“Il silenzio è spesso la risposta migliore.",
+      "Soprattutto quando l’alternativa è spiegare l’ovvio.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 21,
+    "saint": "S. Agnese",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi parla male di tutti,\nprima o poi parlerà male anche di te.",
+    "closing": null,
+    "rawLines": [
+      "“Chi parla male di tutti,",
+      "prima o poi parlerà male anche di te.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 22,
+    "saint": "S. Vincenzo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è cattiveria.\nÈ memoria.",
+    "closing": null,
+    "rawLines": [
+      "“Non è cattiveria.",
+      "È memoria.”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 23,
+    "saint": "S. Emerenziana",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La maturità è capire che non tutte le battaglie\nmeritano il tuo tempo.",
+    "closing": null,
+    "rawLines": [
+      "“La maturità è capire che non tutte le battaglie",
+      "meritano il tuo tempo.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 24,
+    "saint": "S. Francesco di Sales",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "A volte bisogna lasciar correre.\nAltre volte bisogna segnarsi il nome.",
+    "closing": null,
+    "rawLines": [
+      "“A volte bisogna lasciar correre.",
+      "Altre volte bisogna segnarsi il nome.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 25,
+    "saint": "Conversione di S. Paolo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Due cose vengono sempre a galla:\nla verità e gli stronzi.",
+    "closing": null,
+    "rawLines": [
+      "“Due cose vengono sempre a galla:",
+      "la verità e gli stronzi.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 26,
+    "saint": "S. Tito e Timoteo",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Ale",
+    "quote": "È nato lo stesso giorno di Mourinho.\nUno è lo Special One.\nL’altro almeno sa usare un tornio-fresa.",
+    "closing": "Auguri, Ale.",
+    "rawLines": [
+      "“È nato lo stesso giorno di Mourinho.",
+      "Uno è lo Special One.",
+      "L’altro almeno sa usare un tornio-fresa.",
+      "Auguri, Ale.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 27,
+    "saint": "S. Angela Merici",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Oggi si ricorda.\nE si sta in silenzio.",
+    "closing": null,
+    "rawLines": [
+      "“Oggi si ricorda.",
+      "E si sta in silenzio.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 28,
+    "saint": "S. Tommaso d'Aquino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Alla fine della partita, il re e il pedone\ntornano nella stessa scatola.",
+    "closing": null,
+    "rawLines": [
+      "“Alla fine della partita, il re e il pedone",
+      "tornano nella stessa scatola.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 29,
+    "saint": "S. Costanzo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le cose più belle della vita\no sono immorali, o sono illegali,\noppure fanno ingrassare.",
+    "closing": null,
+    "rawLines": [
+      "“Le cose più belle della vita",
+      "o sono immorali, o sono illegali,",
+      "oppure fanno ingrassare.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 30,
+    "saint": "S. Martina",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Undicesimo comandamento:\nlascia perdere.",
+    "closing": null,
+    "rawLines": [
+      "“Undicesimo comandamento:",
+      "lascia perdere.”"
+    ]
+  },
+  {
+    "day": 31,
+    "month": "gennaio",
+    "monthNumber": 1,
+    "dayOfYear": 31,
+    "saint": "S. Giovanni Bosco",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Più è bello il posto,\nmeno comunisti ci sono.",
+    "closing": null,
+    "rawLines": [
+      "“Più è bello il posto,",
+      "meno comunisti ci sono.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 32,
+    "saint": "S. Verdiana",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Essere disponibili non significa\nessere a disposizione.",
+    "closing": null,
+    "rawLines": [
+      "“Essere disponibili non significa",
+      "essere a disposizione.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 33,
+    "saint": "Presentazione del Signore",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il problema non è sbagliare.\nÈ farlo con troppa sicurezza.",
+    "closing": null,
+    "rawLines": [
+      "“Il problema non è sbagliare.",
+      "È farlo con troppa sicurezza.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 34,
+    "saint": "S. Biagio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La pazienza è una virtù.\nIo preferisco evitare le persone\nche la mettono alla prova.",
+    "closing": null,
+    "rawLines": [
+      "“La pazienza è una virtù.",
+      "Io preferisco evitare le persone",
+      "che la mettono alla prova.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 35,
+    "saint": "S. Gilberto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi sa fare, fa.\nChi non sa fare, spesso coordina.",
+    "closing": null,
+    "rawLines": [
+      "“Chi sa fare, fa.",
+      "Chi non sa fare, spesso coordina.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 36,
+    "saint": "S. Agata",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutti meritano una seconda possibilità.\nAlcuni hanno già sprecato\nla prima abbastanza bene.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutti meritano una seconda possibilità.",
+      "Alcuni hanno già sprecato",
+      "la prima abbastanza bene.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 37,
+    "saint": "S. Paolo Miki",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il silenzio è spesso la risposta migliore.\nSoprattutto quando l’alternativa\nè spiegare l’ovvio.",
+    "closing": null,
+    "rawLines": [
+      "“Il silenzio è spesso la risposta migliore.",
+      "Soprattutto quando l’alternativa",
+      "è spiegare l’ovvio.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 38,
+    "saint": "S. Teodoro",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non porto rancore.\nPorto memoria.",
+    "closing": null,
+    "rawLines": [
+      "“Non porto rancore.",
+      "Porto memoria.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 39,
+    "saint": "S. Girolamo Emiliani",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’esperienza insegna.\nLa gente insiste.",
+    "closing": null,
+    "rawLines": [
+      "“L’esperienza insegna.",
+      "La gente insiste.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 40,
+    "saint": "S. Apollonia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Alcuni hanno talmente paura di sbagliare\nche preferiscono non fare niente.",
+    "closing": null,
+    "rawLines": [
+      "“Alcuni hanno talmente paura di sbagliare",
+      "che preferiscono non fare niente.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 41,
+    "saint": "S. Scolastica",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se devi spiegare il rispetto,\nsei già in ritardo.",
+    "closing": null,
+    "rawLines": [
+      "“Se devi spiegare il rispetto,",
+      "sei già in ritardo.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 42,
+    "saint": "N.S. di Lourdes",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutti quelli che ti consigliano\nvogliono vederti migliorare.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutti quelli che ti consigliano",
+      "vogliono vederti migliorare.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 43,
+    "saint": "S. Eulalia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "A volte tacere è educazione.\nAltre volte è autocontrollo.",
+    "closing": null,
+    "rawLines": [
+      "“A volte tacere è educazione.",
+      "Altre volte è autocontrollo.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 44,
+    "saint": "S. Maura",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’amore è cieco.\nLa convivenza gli ridà la vista.",
+    "closing": null,
+    "rawLines": [
+      "“L’amore è cieco.",
+      "La convivenza gli ridà la vista.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 45,
+    "saint": "S. Valentino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "San Valentino:\noggi fingete almeno di sopportarvi.",
+    "closing": null,
+    "rawLines": [
+      "“San Valentino:",
+      "oggi fingete almeno di sopportarvi.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 46,
+    "saint": "S. Faustino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La gente confonde spesso la gentilezza\ncon la disponibilità infinita.",
+    "closing": null,
+    "rawLines": [
+      "“La gente confonde spesso la gentilezza",
+      "con la disponibilità infinita.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 47,
+    "saint": "S. Giuliana",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi sa stare zitto\nha già capito più di molti.",
+    "closing": null,
+    "rawLines": [
+      "“Chi sa stare zitto",
+      "ha già capito più di molti.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 48,
+    "saint": "S. Donato",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non sono difficile.\nHo semplicemente smesso\ndi tollerare il superfluo.",
+    "closing": null,
+    "rawLines": [
+      "“Non sono difficile.",
+      "Ho semplicemente smesso",
+      "di tollerare il superfluo.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 49,
+    "saint": "S. Simeone",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se devi sempre dimostrare di avere ragione,\nprobabilmente hai già perso qualcosa.",
+    "closing": null,
+    "rawLines": [
+      "“Se devi sempre dimostrare di avere ragione,",
+      "probabilmente hai già perso qualcosa.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 50,
+    "saint": "S. Mansueto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La maturità è capire che\nnon tutte le battaglie\nmeritano il tuo tempo.",
+    "closing": null,
+    "rawLines": [
+      "“La maturità è capire che",
+      "non tutte le battaglie",
+      "meritano il tuo tempo.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 51,
+    "saint": "S. Silvano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che migliorano l’ambiente\nappena se ne vanno.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che migliorano l’ambiente",
+      "appena se ne vanno.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 52,
+    "saint": "S. Pier Damiani",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il rispetto si offre.\nLa fiducia si conquista.",
+    "closing": null,
+    "rawLines": [
+      "“Il rispetto si offre.",
+      "La fiducia si conquista.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 53,
+    "saint": "Cattedra di S. Pietro",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ho pochi pregi.\nMa almeno non sono comunista.",
+    "closing": null,
+    "rawLines": [
+      "“Ho pochi pregi.",
+      "Ma almeno non sono comunista.”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 54,
+    "saint": "S. Policarpo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è cattiveria.\nÈ memoria.",
+    "closing": null,
+    "rawLines": [
+      "“Non è cattiveria.",
+      "È memoria.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 55,
+    "saint": "S. Edilberto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "A volte bisogna lasciar correre.\nAltre volte bisogna segnarsi il nome.",
+    "closing": null,
+    "rawLines": [
+      "“A volte bisogna lasciar correre.",
+      "Altre volte bisogna segnarsi il nome.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 56,
+    "saint": "S. Cesario",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Ferro",
+    "quote": "Mettere alla prova la pazienza degli altri\nè praticamente il suo secondo lavoro.\nIl primo è rompere il cazzo.",
+    "closing": "Auguri, Ferro.",
+    "rawLines": [
+      "“Mettere alla prova la pazienza degli altri",
+      "è praticamente il suo secondo lavoro.",
+      "Il primo è rompere il cazzo.",
+      "Auguri, Ferro.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 57,
+    "saint": "S. Romeo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve essere antipatici con tutti.\nBasta selezionare bene.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve essere antipatici con tutti.",
+      "Basta selezionare bene.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 58,
+    "saint": "S. Leandro",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono giorni in cui\nla migliore risposta\nè non rispondere.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono giorni in cui",
+      "la migliore risposta",
+      "è non rispondere.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "febbraio",
+    "monthNumber": 2,
+    "dayOfYear": 59,
+    "saint": "S. Romano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Febbraio è corto.\nLa pazienza anche.",
+    "closing": null,
+    "rawLines": [
+      "“Febbraio è corto.",
+      "La pazienza anche.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 60,
+    "saint": "S. Albino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Marzo promette primavera.\nLa gente resta quella.",
+    "closing": null,
+    "rawLines": [
+      "“Marzo promette primavera.",
+      "La gente resta quella.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 61,
+    "saint": "S. Simplicio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutto quello che perdi\nmerita di essere ritrovato.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutto quello che perdi",
+      "merita di essere ritrovato.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 62,
+    "saint": "S. Cunegonda",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "C’è chi impara dagli errori.\nE chi prende appunti per rifarli meglio.",
+    "closing": null,
+    "rawLines": [
+      "“C’è chi impara dagli errori.",
+      "E chi prende appunti per rifarli meglio.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 63,
+    "saint": "S. Casimiro",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve avere sempre l’ultima parola.\nBasta avere ragione abbastanza spesso.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve avere sempre l’ultima parola.",
+      "Basta avere ragione abbastanza spesso.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 64,
+    "saint": "S. Adriano",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Massi",
+    "quote": "Prima la figa e il pallone.\nOra la bici e Strava.\nL’età fa strani scherzi.",
+    "closing": "Auguri, Massi.",
+    "rawLines": [
+      "“Prima la figa e il pallone.",
+      "Ora la bici e Strava.",
+      "L’età fa strani scherzi.",
+      "Auguri, Massi.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 65,
+    "saint": "S. Coletta",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le persone semplici sono rare.\nQuelle complicate, purtroppo, no.",
+    "closing": null,
+    "rawLines": [
+      "“Le persone semplici sono rare.",
+      "Quelle complicate, purtroppo, no.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 66,
+    "saint": "S. Perpetua e Felicita",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è freddezza.\nÈ selezione naturale.",
+    "closing": null,
+    "rawLines": [
+      "“Non è freddezza.",
+      "È selezione naturale.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 67,
+    "saint": "S. Giovanni di Dio",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "donne",
+    "quote": "Siamo tutti uguali.\nMa oggi fate finta di crederci.",
+    "closing": "Auguri, donne.",
+    "rawLines": [
+      "“Siamo tutti uguali.",
+      "Ma oggi fate finta di crederci.",
+      "Auguri, donne.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 68,
+    "saint": "S. Francesca Romana",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi ti cerca solo quando gli servi\nha già spiegato abbastanza.",
+    "closing": null,
+    "rawLines": [
+      "“Chi ti cerca solo quando gli servi",
+      "ha già spiegato abbastanza.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 69,
+    "saint": "S. Simplicio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il tempo chiarisce molte cose.\nLe persone aiutano.",
+    "closing": null,
+    "rawLines": [
+      "“Il tempo chiarisce molte cose.",
+      "Le persone aiutano.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 70,
+    "saint": "S. Costantino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non sempre vale la pena discutere.\nA volte basta osservare.",
+    "closing": null,
+    "rawLines": [
+      "“Non sempre vale la pena discutere.",
+      "A volte basta osservare.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 71,
+    "saint": "S. Massimiliano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi pretende rispetto\ndovrebbe provare a meritarlo.",
+    "closing": null,
+    "rawLines": [
+      "“Chi pretende rispetto",
+      "dovrebbe provare a meritarlo.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 72,
+    "saint": "S. Patrizia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le promesse costano poco.\nPer questo ne fanno tutti.",
+    "closing": null,
+    "rawLines": [
+      "“Le promesse costano poco.",
+      "Per questo ne fanno tutti.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 73,
+    "saint": "S. Matilde",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Più conosco le persone,\npiù apprezzo i momenti da solo.",
+    "closing": null,
+    "rawLines": [
+      "“Più conosco le persone,",
+      "più apprezzo i momenti da solo.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 74,
+    "saint": "S. Luisa",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutti i problemi hanno una soluzione.\nAlcuni hanno un nome.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutti i problemi hanno una soluzione.",
+      "Alcuni hanno un nome.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 75,
+    "saint": "S. Eriberto",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Fox",
+    "quote": "Ha già scavallato la montagna.\nOra è in discesa.\nE i freni non sembrano nuovissimi.\nOci!",
+    "closing": "Auguri, Fox.",
+    "rawLines": [
+      "“Ha già scavallato la montagna.",
+      "Ora è in discesa.",
+      "E i freni non sembrano nuovissimi.",
+      "Oci!",
+      "Auguri, Fox.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 76,
+    "saint": "S. Patrizio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non devi piacere a tutti.\nNon sei una birra gratis.",
+    "closing": null,
+    "rawLines": [
+      "“Non devi piacere a tutti.",
+      "Non sei una birra gratis.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 77,
+    "saint": "S. Cirillo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’educazione trattiene\nmolte risposte meritate.",
+    "closing": null,
+    "rawLines": [
+      "“L’educazione trattiene",
+      "molte risposte meritate.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 78,
+    "saint": "S. Giuseppe",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Fare il padre non significa sapere tutto.\nSignifica esserci sempre.",
+    "closing": null,
+    "rawLines": [
+      "“Fare il padre non significa sapere tutto.",
+      "Significa esserci sempre.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 79,
+    "saint": "S. Claudia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "È arrivata la primavera.\nLa voglia di lavorare no.",
+    "closing": null,
+    "rawLines": [
+      "“È arrivata la primavera.",
+      "La voglia di lavorare no.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 80,
+    "saint": "S. Benedetto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che parlano tanto\nper evitare di dire qualcosa.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che parlano tanto",
+      "per evitare di dire qualcosa.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 81,
+    "saint": "S. Lea",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi fa troppo rumore\ndi solito ha poco da dire.",
+    "closing": null,
+    "rawLines": [
+      "“Chi fa troppo rumore",
+      "di solito ha poco da dire.”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 82,
+    "saint": "S. Turibio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non giudico nessuno.\nPrendo nota.",
+    "closing": null,
+    "rawLines": [
+      "“Non giudico nessuno.",
+      "Prendo nota.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 83,
+    "saint": "S. Romolo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il vantaggio di dire la verità\nè che non devi ricordarti le bugie.",
+    "closing": null,
+    "rawLines": [
+      "“Il vantaggio di dire la verità",
+      "è che non devi ricordarti le bugie.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 84,
+    "saint": "Annunciazione del Signore",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Alcuni rapporti non finiscono male.\nFiniscono giusto.",
+    "closing": null,
+    "rawLines": [
+      "“Alcuni rapporti non finiscono male.",
+      "Finiscono giusto.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 85,
+    "saint": "S. Emanuele",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se vuoi la pace,\nsmetti di frequentare gli idioti.",
+    "closing": null,
+    "rawLines": [
+      "“Se vuoi la pace,",
+      "smetti di frequentare gli idioti.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 86,
+    "saint": "S. Augusto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le idee sono libere.\nPeccato che certe siano comuniste.",
+    "closing": null,
+    "rawLines": [
+      "“Le idee sono libere.",
+      "Peccato che certe siano comuniste.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 87,
+    "saint": "S. Sisto III",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il carattere si vede\nquando non hai nulla da guadagnare.",
+    "closing": null,
+    "rawLines": [
+      "“Il carattere si vede",
+      "quando non hai nulla da guadagnare.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 88,
+    "saint": "S. Secondo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Essere buoni va bene.\nEssere fessi è un’altra cosa.",
+    "closing": null,
+    "rawLines": [
+      "“Essere buoni va bene.",
+      "Essere fessi è un’altra cosa.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 89,
+    "saint": "S. Amedeo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutto merita una risposta.\nSoprattutto certe persone.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutto merita una risposta.",
+      "Soprattutto certe persone.”"
+    ]
+  },
+  {
+    "day": 31,
+    "month": "marzo",
+    "monthNumber": 3,
+    "dayOfYear": 90,
+    "saint": "S. Beniamino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Marzo è finito.\nNoi siamo ancora qui.",
+    "closing": null,
+    "rawLines": [
+      "“Marzo è finito.",
+      "Noi siamo ancora qui.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 91,
+    "saint": "S. Ugo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Pezzi perfetti.\nTolleranze spaccate.\nNessun difetto.\nTranquilli: è il 1° aprile.",
+    "closing": null,
+    "rawLines": [
+      "“Pezzi perfetti.",
+      "Tolleranze spaccate.",
+      "Nessun difetto.",
+      "Tranquilli: è il 1° aprile.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 92,
+    "saint": "S. Francesco da Paola",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi promette troppo\ndi solito mantiene poco.",
+    "closing": null,
+    "rawLines": [
+      "“Chi promette troppo",
+      "di solito mantiene poco.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 93,
+    "saint": "S. Riccardo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve complicare tutto.\nLa gente ci riesce già da sola.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve complicare tutto.",
+      "La gente ci riesce già da sola.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 94,
+    "saint": "S. Isidoro",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il problema del lavoro di precisione?\nLo notano solo quando sbagli.",
+    "closing": null,
+    "rawLines": [
+      "“Il problema del lavoro di precisione?",
+      "Lo notano solo quando sbagli.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 95,
+    "saint": "S. Vincenzo Ferrer",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono discussioni che non si vincono.\nSi abbandonano.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono discussioni che non si vincono.",
+      "Si abbandonano.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 96,
+    "saint": "S. Guglielmo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Misura due volte.\nTaglia una volta.",
+    "closing": null,
+    "rawLines": [
+      "“Misura due volte.",
+      "Taglia una volta.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 97,
+    "saint": "S. Giovanni Battista de la Salle",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutti hanno qualcosa da dire.\nMolti parlano lo stesso.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutti hanno qualcosa da dire.",
+      "Molti parlano lo stesso.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 98,
+    "saint": "S. Alberto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il cinismo è avere\nla giusta misura\ntra esperienza e aspettative.",
+    "closing": null,
+    "rawLines": [
+      "“Il cinismo è avere",
+      "la giusta misura",
+      "tra esperienza e aspettative.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 99,
+    "saint": "S. Maria Cleofe",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le buone intenzioni sono gratis.\nI risultati no.",
+    "closing": null,
+    "rawLines": [
+      "“Le buone intenzioni sono gratis.",
+      "I risultati no.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 100,
+    "saint": "S. Terenzio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve avere sempre ragione.\nBasta evitare di avere torto troppo spesso.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve avere sempre ragione.",
+      "Basta evitare di avere torto troppo spesso.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 101,
+    "saint": "S. Gemma Galgani",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Quando smetti di essere utile\nscopri subito chi ti cercava\ne chi aveva bisogno di te.",
+    "closing": null,
+    "rawLines": [
+      "“Quando smetti di essere utile",
+      "scopri subito chi ti cercava",
+      "e chi aveva bisogno di te.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 102,
+    "saint": "S. Giulio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il problema dei comunisti\nè che finiscono sempre\ni soldi degli altri.",
+    "closing": null,
+    "rawLines": [
+      "“Il problema dei comunisti",
+      "è che finiscono sempre",
+      "i soldi degli altri.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 103,
+    "saint": "S. Martino I",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Essere gentili è una scelta.\nFarsi prendere per il culo no.",
+    "closing": null,
+    "rawLines": [
+      "“Essere gentili è una scelta.",
+      "Farsi prendere per il culo no.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 104,
+    "saint": "S. Lamberto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il tempo passa.\nLe cazzate restano.",
+    "closing": null,
+    "rawLines": [
+      "“Il tempo passa.",
+      "Le cazzate restano.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 105,
+    "saint": "S. Annibale",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Lavorare in gruppo è semplice:\nuno lavora, gli altri aggiornano.",
+    "closing": null,
+    "rawLines": [
+      "“Lavorare in gruppo è semplice:",
+      "uno lavora, gli altri aggiornano.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 106,
+    "saint": "S. Bernadette",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è arroganza.\nÈ stanchezza selettiva.",
+    "closing": null,
+    "rawLines": [
+      "“Non è arroganza.",
+      "È stanchezza selettiva.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 107,
+    "saint": "S. Aniceto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se tutti ti danno ragione,\nforse hai scelto male la stanza.",
+    "closing": null,
+    "rawLines": [
+      "“Se tutti ti danno ragione,",
+      "forse hai scelto male la stanza.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 108,
+    "saint": "S. Galdino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’ottimismo è solo\nmancanza di dati.",
+    "closing": null,
+    "rawLines": [
+      "“L’ottimismo è solo",
+      "mancanza di dati.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 109,
+    "saint": "S. Emma",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che hanno sempre\nuna soluzione per problemi\nche non devono risolvere loro.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che hanno sempre",
+      "una soluzione per problemi",
+      "che non devono risolvere loro.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 110,
+    "saint": "S. Adalgisa",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il talento aiuta.\nLa disciplina decide.",
+    "closing": null,
+    "rawLines": [
+      "“Il talento aiuta.",
+      "La disciplina decide.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 111,
+    "saint": "S. Anselmo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le idee sono libere.\nPeccato per alcune.",
+    "closing": null,
+    "rawLines": [
+      "“Le idee sono libere.",
+      "Peccato per alcune.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 112,
+    "saint": "S. Sotero",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Giornata della Terra.\nUn pianeta intero\ne certa gente doveva capitare\nproprio qui dentro!",
+    "closing": null,
+    "rawLines": [
+      "“Giornata della Terra.",
+      "Un pianeta intero",
+      "e certa gente doveva capitare",
+      "proprio qui dentro!”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 113,
+    "saint": "S. Giorgio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il lavoro nobilita l’uomo.\nMa qualcuno sta esagerando con la nobiltà.",
+    "closing": null,
+    "rawLines": [
+      "“Il lavoro nobilita l’uomo.",
+      "Ma qualcuno sta esagerando con la nobiltà.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 114,
+    "saint": "S. Fedele",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutti gli errori insegnano.\nAlcuni tornano il giorno dopo.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutti gli errori insegnano.",
+      "Alcuni tornano il giorno dopo.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 115,
+    "saint": "S. Marco Evangelista",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Liberazione.\nOggi memoria lunga\ne polemiche ancora più lunghe.",
+    "closing": null,
+    "rawLines": [
+      "“Liberazione.",
+      "Oggi memoria lunga",
+      "e polemiche ancora più lunghe.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 116,
+    "saint": "S. Marcellino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi sa fare non ha bisogno\ndi raccontarlo troppo.",
+    "closing": null,
+    "rawLines": [
+      "“Chi sa fare non ha bisogno",
+      "di raccontarlo troppo.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 117,
+    "saint": "S. Zita",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Gigi",
+    "quote": "La fresa perdona poco.\nGigi ancora meno.",
+    "closing": "Auguri, Gigi.",
+    "rawLines": [
+      "“La fresa perdona poco.",
+      "Gigi ancora meno.",
+      "Auguri, Gigi.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 118,
+    "saint": "S. Valeria",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il problema non è avere un’opinione.\nÈ pensare che valga per forza.",
+    "closing": null,
+    "rawLines": [
+      "“Il problema non è avere un’opinione.",
+      "È pensare che valga per forza.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 119,
+    "saint": "S. Caterina da Siena",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Quando dividono tutto\nsono sempre generosi\ncon quello degli altri.",
+    "closing": null,
+    "rawLines": [
+      "“Quando dividono tutto",
+      "sono sempre generosi",
+      "con quello degli altri.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "aprile",
+    "monthNumber": 4,
+    "dayOfYear": 120,
+    "saint": "S. Pio V",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Aprile finisce.\nLe rotture di coglioni no.",
+    "closing": null,
+    "rawLines": [
+      "“Aprile finisce.",
+      "Le rotture di coglioni no.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 121,
+    "saint": "S. Giuseppe Artigiano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Vito e Federico,\noggi riposatevi.\nVe lo siete meritato.",
+    "closing": "Buona Festa dei Lavoratori.",
+    "rawLines": [
+      "“Vito e Federico,",
+      "oggi riposatevi.",
+      "Ve lo siete meritato.",
+      "Buona Festa dei Lavoratori.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 122,
+    "saint": "S. Atanasio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le ferie finiscono.\nLa dignità pure,\nma più lentamente.",
+    "closing": null,
+    "rawLines": [
+      "“Le ferie finiscono.",
+      "La dignità pure,",
+      "ma più lentamente.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 123,
+    "saint": "Ss. Filippo e Giacomo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il lunedì è una punizione\nper colpe che non ricordo.",
+    "closing": null,
+    "rawLines": [
+      "“Il lunedì è una punizione",
+      "per colpe che non ricordo.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 124,
+    "saint": "S. Silvano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "C’è chi porta soluzioni.\nE chi porta solo sé stesso.",
+    "closing": null,
+    "rawLines": [
+      "“C’è chi porta soluzioni.",
+      "E chi porta solo sé stesso.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 125,
+    "saint": "S. Pellegrino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Fare bene una cosa\nrichiede tempo.\nRifarla per colpa di altri, di più.",
+    "closing": null,
+    "rawLines": [
+      "“Fare bene una cosa",
+      "richiede tempo.",
+      "Rifarla per colpa di altri, di più.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 126,
+    "saint": "S. Domenico Savio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono silenzi preziosi.\nDi solito iniziano\nquando qualcuno se ne va.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono silenzi preziosi.",
+      "Di solito iniziano",
+      "quando qualcuno se ne va.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 127,
+    "saint": "S. Flavia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il problema non è faticare.\nÈ farlo anche per chi\nnon sa dove mettere le mani.",
+    "closing": null,
+    "rawLines": [
+      "“Il problema non è faticare.",
+      "È farlo anche per chi",
+      "non sa dove mettere le mani.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 128,
+    "saint": "B.V. Maria del Rosario",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Alcuni vogliono rispetto\ncon la stessa convinzione\ncon cui evitano di meritarselo.",
+    "closing": null,
+    "rawLines": [
+      "“Alcuni vogliono rispetto",
+      "con la stessa convinzione",
+      "con cui evitano di meritarselo.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 129,
+    "saint": "S. Gregorio",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "mamme",
+    "quote": "Alle mamme si deve tutto.\nAlmeno oggi,\nevitate di rompere.",
+    "closing": "Auguri, mamme.",
+    "rawLines": [
+      "“Alle mamme si deve tutto.",
+      "Almeno oggi,",
+      "evitate di rompere.",
+      "Auguri, mamme.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 130,
+    "saint": "S. Antonino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’esperienza non ti cambia la vita.\nTi fa solo perdere pazienza prima.",
+    "closing": null,
+    "rawLines": [
+      "“L’esperienza non ti cambia la vita.",
+      "Ti fa solo perdere pazienza prima.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 131,
+    "saint": "S. Fabio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le persone utili si riconoscono.\nQuelle inutili, purtroppo, pure.",
+    "closing": null,
+    "rawLines": [
+      "“Le persone utili si riconoscono.",
+      "Quelle inutili, purtroppo, pure.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 132,
+    "saint": "S. Pancrazio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il comunismo piace sempre\na chi sogna di dividere\nquello che non ha guadagnato.",
+    "closing": null,
+    "rawLines": [
+      "“Il comunismo piace sempre",
+      "a chi sogna di dividere",
+      "quello che non ha guadagnato.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 133,
+    "saint": "B.V. di Fatima",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi si offende per tutto\ndi solito ha già capito\nche si parlava di lui.",
+    "closing": null,
+    "rawLines": [
+      "“Chi si offende per tutto",
+      "di solito ha già capito",
+      "che si parlava di lui.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 134,
+    "saint": "S. Mattia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Un lavoro fatto bene\nnon fa rumore.\nGli errori invece sì.",
+    "closing": null,
+    "rawLines": [
+      "“Un lavoro fatto bene",
+      "non fa rumore.",
+      "Gli errori invece sì.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 135,
+    "saint": "S. Torquato",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se devi spiegare tre volte\nla stessa cosa,\nnon stai insegnando: stai soffrendo.",
+    "closing": null,
+    "rawLines": [
+      "“Se devi spiegare tre volte",
+      "la stessa cosa,",
+      "non stai insegnando: stai soffrendo.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 136,
+    "saint": "S. Ubaldo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono giornate storte.\nE poi ci sono quelle\nfrequentate male.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono giornate storte.",
+      "E poi ci sono quelle",
+      "frequentate male.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 137,
+    "saint": "S. Pasquale Baylon",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La sicurezza è una gran cosa.\nL’eccesso di sicurezza\nfa solo danni.",
+    "closing": null,
+    "rawLines": [
+      "“La sicurezza è una gran cosa.",
+      "L’eccesso di sicurezza",
+      "fa solo danni.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 138,
+    "saint": "S. Giovanni I",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Fidarsi è bene.\nControllare è precisione.",
+    "closing": null,
+    "rawLines": [
+      "“Fidarsi è bene.",
+      "Controllare è precisione.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 139,
+    "saint": "S. Pietro di Morrone",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Certe persone non sbagliano mai.\nRiescono direttamente\na fare peggio.",
+    "closing": null,
+    "rawLines": [
+      "“Certe persone non sbagliano mai.",
+      "Riescono direttamente",
+      "a fare peggio.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 140,
+    "saint": "S. Bernardino da Siena",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve correre forte.\nBasta non andare in giro\na cazzo di cane.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve correre forte.",
+      "Basta non andare in giro",
+      "a cazzo di cane.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 141,
+    "saint": "S. Vittorio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La pazienza non è infinita.\nHa solo imparato\na parlare meno.",
+    "closing": null,
+    "rawLines": [
+      "“La pazienza non è infinita.",
+      "Ha solo imparato",
+      "a parlare meno.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 142,
+    "saint": "S. Rita da Cascia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Milito, una finta, in areaaa…\nAncoraaaa!!! El Principe!!!\nDiego Milito!\nEl Principe diventa Re\nnella notte di Madrid.\n22 maggio 2010.",
+    "closing": null,
+    "rawLines": [
+      "Milito, una finta, in areaaa…",
+      "Ancoraaaa!!! El Principe!!!",
+      "Diego Milito!",
+      "El Principe diventa Re",
+      "nella notte di Madrid.",
+      "22 maggio 2010."
+    ]
+  },
+  {
+    "day": 23,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 143,
+    "saint": "S. Desiderio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Oggi si ricorda chi ha avuto coraggio\nquando tanti avevano solo paura.\n23 maggio 1992.",
+    "closing": null,
+    "rawLines": [
+      "“Oggi si ricorda chi ha avuto coraggio",
+      "quando tanti avevano solo paura.",
+      "23 maggio 1992.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 144,
+    "saint": "B.V. Maria Ausiliatrice",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se una cosa funziona,\nnon toccarla.\nSoprattutto se sei quello\nche la rompe sempre.",
+    "closing": null,
+    "rawLines": [
+      "“Se una cosa funziona,",
+      "non toccarla.",
+      "Soprattutto se sei quello",
+      "che la rompe sempre.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 145,
+    "saint": "S. Beda",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "C’è chi lavora bene.\nC’è chi parla bene.\nDi solito non sono gli stessi.",
+    "closing": null,
+    "rawLines": [
+      "“C’è chi lavora bene.",
+      "C’è chi parla bene.",
+      "Di solito non sono gli stessi.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 146,
+    "saint": "S. Filippo Neri",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il rispetto non si chiede.\nSi tiene,\nse si è capaci.",
+    "closing": null,
+    "rawLines": [
+      "“Il rispetto non si chiede.",
+      "Si tiene,",
+      "se si è capaci.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 147,
+    "saint": "S. Agostino di Canterbury",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ogni gruppo ha il suo equilibrio.\nPoi arriva uno\ne lo rovina.",
+    "closing": null,
+    "rawLines": [
+      "“Ogni gruppo ha il suo equilibrio.",
+      "Poi arriva uno",
+      "e lo rovina.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 148,
+    "saint": "S. Emilio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Capire al volo è un pregio.\nFarsi capire al volo,\ncon certa gente, è fantascienza.",
+    "closing": null,
+    "rawLines": [
+      "“Capire al volo è un pregio.",
+      "Farsi capire al volo,",
+      "con certa gente, è fantascienza.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 149,
+    "saint": "S. Massimo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Più passa il tempo,\npiù certa gente\nsembra un difetto di fabbrica.",
+    "closing": null,
+    "rawLines": [
+      "“Più passa il tempo,",
+      "più certa gente",
+      "sembra un difetto di fabbrica.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 150,
+    "saint": "S. Ferdinando",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non puoi scegliere i colleghi.\nEd è qui\nche la vita diventa cattiva.",
+    "closing": null,
+    "rawLines": [
+      "“Non puoi scegliere i colleghi.",
+      "Ed è qui",
+      "che la vita diventa cattiva.”"
+    ]
+  },
+  {
+    "day": 31,
+    "month": "maggio",
+    "monthNumber": 5,
+    "dayOfYear": 151,
+    "saint": "Visitazione B.V.M.",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Maggio è finito.\nLa voglia di ferie\nadesso è ufficiale.",
+    "closing": null,
+    "rawLines": [
+      "“Maggio è finito.",
+      "La voglia di ferie",
+      "adesso è ufficiale.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 152,
+    "saint": "S. Giustino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Giugno.\nIl mese in cui lavorare\ncomincia a sembrare un errore.",
+    "closing": null,
+    "rawLines": [
+      "“Giugno.",
+      "Il mese in cui lavorare",
+      "comincia a sembrare un errore.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 153,
+    "saint": "Ss. Marcellino e Pietro",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "È meglio la peggiore delle democrazie\ndella migliore di tutte le dittature.”\n— Sandro Pertini",
+    "closing": null,
+    "rawLines": [
+      "“È meglio la peggiore delle democrazie",
+      "della migliore di tutte le dittature.”",
+      "— Sandro Pertini"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 154,
+    "saint": "S. Carlo Lwanga",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il difficile non è fare bene il lavoro.\nÈ farlo mentre tutti ti spiegano come.",
+    "closing": null,
+    "rawLines": [
+      "“Il difficile non è fare bene il lavoro.",
+      "È farlo mentre tutti ti spiegano come.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 155,
+    "saint": "S. Quirino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che entrano in officina\ne fanno subito aumentare\nil rischio di errore.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che entrano in officina",
+      "e fanno subito aumentare",
+      "il rischio di errore.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 156,
+    "saint": "S. Bonifacio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Venerdì.\nLa produttività saluta\ne ci vediamo lunedì.",
+    "closing": null,
+    "rawLines": [
+      "“Venerdì.",
+      "La produttività saluta",
+      "e ci vediamo lunedì.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 157,
+    "saint": "S. Norberto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutto va aggiustato.\nCerta gente nasce già fuori tolleranza.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutto va aggiustato.",
+      "Certa gente nasce già fuori tolleranza.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 158,
+    "saint": "S. Roberto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi ha sempre una scusa\ndi solito ha poco altro.",
+    "closing": null,
+    "rawLines": [
+      "“Chi ha sempre una scusa",
+      "di solito ha poco altro.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 159,
+    "saint": "S. Medardo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le persone migliori\nnon hanno bisogno di ricordartelo.",
+    "closing": null,
+    "rawLines": [
+      "“Le persone migliori",
+      "non hanno bisogno di ricordartelo.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 160,
+    "saint": "S. Primo e Feliciano",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Giorgia",
+    "quote": "Ci sono giorni che passano.\nE giorni che cambiano tutto.\nIl 9 giugno 2025 è stato il mio.",
+    "closing": "Buon compleanno, Giorgia.",
+    "rawLines": [
+      "“Ci sono giorni che passano.",
+      "E giorni che cambiano tutto.",
+      "Il 9 giugno 2025 è stato il mio.",
+      "Buon compleanno, Giorgia.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 161,
+    "saint": "S. Diana",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve sapere tutto.\nBasta sapere quando\nè meglio stare zitti.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve sapere tutto.",
+      "Basta sapere quando",
+      "è meglio stare zitti.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 162,
+    "saint": "S. Barnaba",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "C’è chi risolve i problemi.\nE chi arriva giusto in tempo\nper chiedere com’è successo.",
+    "closing": null,
+    "rawLines": [
+      "“C’è chi risolve i problemi.",
+      "E chi arriva giusto in tempo",
+      "per chiedere com’è successo.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 163,
+    "saint": "S. Onofrio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il problema non è avere pazienza.\nÈ che la gente continua a provarla.",
+    "closing": null,
+    "rawLines": [
+      "“Il problema non è avere pazienza.",
+      "È che la gente continua a provarla.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 164,
+    "saint": "S. Antonio di Padova",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Alcuni colleghi sono come le quote:\nsulla carta tornano,\npoi misuri e cambia tutto.",
+    "closing": null,
+    "rawLines": [
+      "“Alcuni colleghi sono come le quote:",
+      "sulla carta tornano,",
+      "poi misuri e cambia tutto.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 165,
+    "saint": "S. Eliseo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve fare tanto rumore.\nI pezzi buoni\nparlano da soli.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve fare tanto rumore.",
+      "I pezzi buoni",
+      "parlano da soli.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 166,
+    "saint": "S. Vito",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non devi essere indispensabile.\nFai già un favore\nse non sei d’intralcio.",
+    "closing": null,
+    "rawLines": [
+      "“Non devi essere indispensabile.",
+      "Fai già un favore",
+      "se non sei d’intralcio.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 167,
+    "saint": "S. Aureliano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il comunismo era un’ideologia\nche prometteva giustizia e uguaglianza,\nma che ha prodotto solo miseria e terrore.”\n— Oriana Fallaci",
+    "closing": null,
+    "rawLines": [
+      "“Il comunismo era un’ideologia",
+      "che prometteva giustizia e uguaglianza,",
+      "ma che ha prodotto solo miseria e terrore.”",
+      "— Oriana Fallaci"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 168,
+    "saint": "S. Ranieri",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è sfiducia.\nÈ che ti ho già visto all’opera.",
+    "closing": null,
+    "rawLines": [
+      "“Non è sfiducia.",
+      "È che ti ho già visto all’opera.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 169,
+    "saint": "S. Gregorio Barbarigo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il venerdì non risolve i problemi.\nMa almeno li rimanda a lunedì.",
+    "closing": null,
+    "rawLines": [
+      "“Il venerdì non risolve i problemi.",
+      "Ma almeno li rimanda a lunedì.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 170,
+    "saint": "S. Romualdo",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Super Ciccio",
+    "quote": "Figa, motori e cazzi degli altri.\nLe sue tre grandi passioni.\nTanti auguri, Super Ciccio.",
+    "closing": null,
+    "rawLines": [
+      "“Figa, motori e cazzi degli altri.",
+      "Le sue tre grandi passioni.",
+      "Tanti auguri, Super Ciccio.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 171,
+    "saint": "S. Silverio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone\nche migliorano col tempo.\nAltre semplicemente invecchiano.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone",
+      "che migliorano col tempo.",
+      "Altre semplicemente invecchiano.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 172,
+    "saint": "S. Luigi Gonzaga",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Igli",
+    "quote": "Albanese di nascita,\nfresatore per necessità.\nDistratto dalle ragazze per vocazione.",
+    "closing": "Auguri, Igli.",
+    "rawLines": [
+      "“Albanese di nascita,",
+      "fresatore per necessità.",
+      "Distratto dalle ragazze per vocazione.",
+      "Auguri, Igli.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 173,
+    "saint": "S. Paolino da Nola",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "È estate.\nFuori trenta gradi.\nDentro sempre le stesse rotture di coglioni.",
+    "closing": null,
+    "rawLines": [
+      "“È estate.",
+      "Fuori trenta gradi.",
+      "Dentro sempre le stesse rotture di coglioni.”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 174,
+    "saint": "S. Lanfranco",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il talento si vede.\nLa costanza si misura.",
+    "closing": null,
+    "rawLines": [
+      "“Il talento si vede.",
+      "La costanza si misura.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 175,
+    "saint": "Natività S. Giovanni Battista",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il calibro non ha simpatie.\nO sei in tolleranza\no hai fatto una cazzata.",
+    "closing": null,
+    "rawLines": [
+      "“Il calibro non ha simpatie.",
+      "O sei in tolleranza",
+      "o hai fatto una cazzata.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 176,
+    "saint": "S. Guglielmo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutti quelli che sembrano impegnati\nstanno facendo qualcosa.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutti quelli che sembrano impegnati",
+      "stanno facendo qualcosa.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 177,
+    "saint": "S. Vigilio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se vuoi sapere chi è davvero capace,\nguarda chi risolve\nsenza fare casino.",
+    "closing": null,
+    "rawLines": [
+      "“Se vuoi sapere chi è davvero capace,",
+      "guarda chi risolve",
+      "senza fare casino.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 178,
+    "saint": "S. Cirillo d'Alessandria",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "C’è chi porta esperienza.\nE chi porta solo anzianità.",
+    "closing": null,
+    "rawLines": [
+      "“C’è chi porta esperienza.",
+      "E chi porta solo anzianità.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 179,
+    "saint": "S. Ireneo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Certi colleghi non rallentano il lavoro.\nGli danno solo\nun’altra velocità.",
+    "closing": null,
+    "rawLines": [
+      "“Certi colleghi non rallentano il lavoro.",
+      "Gli danno solo",
+      "un’altra velocità.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 180,
+    "saint": "Ss. Pietro e Paolo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il rispetto si vede soprattutto\nquando non c’è niente\nda guadagnare.",
+    "closing": null,
+    "rawLines": [
+      "“Il rispetto si vede soprattutto",
+      "quando non c’è niente",
+      "da guadagnare.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "giugno",
+    "monthNumber": 6,
+    "dayOfYear": 181,
+    "saint": "Primi Santi Martiri",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Metà anno è andata.\nLa pazienza pure.",
+    "closing": null,
+    "rawLines": [
+      "“Metà anno è andata.",
+      "La pazienza pure.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 182,
+    "saint": "S. Pier Giorgio Frassati",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Luglio.\nIl caldo aumenta.\nLa voglia di lavorare no.",
+    "closing": null,
+    "rawLines": [
+      "“Luglio.",
+      "Il caldo aumenta.",
+      "La voglia di lavorare no.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 183,
+    "saint": "S. Ottone",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che non cambiano idea.\nNon perché abbiano ragione,\nma perché non ne hanno altre.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che non cambiano idea.",
+      "Non perché abbiano ragione,",
+      "ma perché non ne hanno altre.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 184,
+    "saint": "S. Tommaso Apostolo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se una cosa può andare storta,\nqualcuno troverà il modo\ndi darle una mano.",
+    "closing": null,
+    "rawLines": [
+      "“Se una cosa può andare storta,",
+      "qualcuno troverà il modo",
+      "di darle una mano.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 185,
+    "saint": "S. Elisabetta del Portogallo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono giorni in cui\nla pausa caffè\nè il risultato migliore.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono giorni in cui",
+      "la pausa caffè",
+      "è il risultato migliore.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 186,
+    "saint": "S. Antonio Maria Zaccaria",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il bello dell’esperienza\nè riconoscere subito\nquando sta per arrivare una cazzata.",
+    "closing": null,
+    "rawLines": [
+      "“Il bello dell’esperienza",
+      "è riconoscere subito",
+      "quando sta per arrivare una cazzata.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 187,
+    "saint": "S. Maria Goretti",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se una cosa funziona,\nlascia stare.\nQualcuno la rovinerà comunque.",
+    "closing": null,
+    "rawLines": [
+      "“Se una cosa funziona,",
+      "lascia stare.",
+      "Qualcuno la rovinerà comunque.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 188,
+    "saint": "S. Claudio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve essere perfetti.\nBasta non essere il motivo\nper cui rifanno il pezzo.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve essere perfetti.",
+      "Basta non essere il motivo",
+      "per cui rifanno il pezzo.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 189,
+    "saint": "S. Adriano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Essere capaci aiuta.\nEssere circondati da gente capace\naiuta molto di più.",
+    "closing": null,
+    "rawLines": [
+      "“Essere capaci aiuta.",
+      "Essere circondati da gente capace",
+      "aiuta molto di più.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 190,
+    "saint": "S. Veronica Giuliani",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è il peso del lavoro.\nÈ certa gente\nche lo rende pesante.",
+    "closing": null,
+    "rawLines": [
+      "“Non è il peso del lavoro.",
+      "È certa gente",
+      "che lo rende pesante.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 191,
+    "saint": "S. Felicita",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il lavoro di precisione\nè semplice:\no torna, o non torna.",
+    "closing": null,
+    "rawLines": [
+      "“Il lavoro di precisione",
+      "è semplice:",
+      "o torna, o non torna.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 192,
+    "saint": "S. Benedetto da Norcia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non sempre serve una spiegazione.\nA volte basta guardare\nchi ha fatto il lavoro.",
+    "closing": null,
+    "rawLines": [
+      "“Non sempre serve una spiegazione.",
+      "A volte basta guardare",
+      "chi ha fatto il lavoro.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 193,
+    "saint": "S. Fortunato",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Certe giornate iniziano male.\nPoi arrivano anche i colleghi.",
+    "closing": null,
+    "rawLines": [
+      "“Certe giornate iniziano male.",
+      "Poi arrivano anche i colleghi.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 194,
+    "saint": "S. Enrico",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il comunismo è la teoria\nsecondo cui nessuno deve avere troppo.\nPeccato che alla fine non abbia niente nessuno.",
+    "closing": null,
+    "rawLines": [
+      "“Il comunismo è la teoria",
+      "secondo cui nessuno deve avere troppo.",
+      "Peccato che alla fine non abbia niente nessuno.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 195,
+    "saint": "S. Camillo de Lellis",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve sapere tutto.\nBasta non parlare\ncome se lo sapessi.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve sapere tutto.",
+      "Basta non parlare",
+      "come se lo sapessi.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 196,
+    "saint": "S. Bonaventura",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è che non sopporto la gente.\nÈ che alcuni si impegnano.",
+    "closing": null,
+    "rawLines": [
+      "“Non è che non sopporto la gente.",
+      "È che alcuni si impegnano.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 197,
+    "saint": "B.V. Maria del Carmelo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il caldo passa.\nLe rotture di coglioni\ntendono a restare.",
+    "closing": null,
+    "rawLines": [
+      "“Il caldo passa.",
+      "Le rotture di coglioni",
+      "tendono a restare.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 198,
+    "saint": "S. Alessio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che portano valore.\nAltre portano solo presenza.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che portano valore.",
+      "Altre portano solo presenza.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 199,
+    "saint": "S. Federico",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se devi controllare tutto due volte,\nprobabilmente hai già capito\ncon chi stai lavorando.",
+    "closing": null,
+    "rawLines": [
+      "“Se devi controllare tutto due volte,",
+      "probabilmente hai già capito",
+      "con chi stai lavorando.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 200,
+    "saint": "S. Arsenio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Oggi si ricordano\nPaolo Borsellino\ne gli uomini della sua scorta.\n19 luglio 1992.",
+    "closing": null,
+    "rawLines": [
+      "“Oggi si ricordano",
+      "Paolo Borsellino",
+      "e gli uomini della sua scorta.",
+      "19 luglio 1992.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 201,
+    "saint": "S. Elia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutte le persone inutili\nsono dannose.\nAlcune sono solo molto presenti.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutte le persone inutili",
+      "sono dannose.",
+      "Alcune sono solo molto presenti.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 202,
+    "saint": "S. Lorenzo da Brindisi",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Fare bene il proprio lavoro\nè già difficile.\nFare anche quello degli altri, di più.",
+    "closing": null,
+    "rawLines": [
+      "“Fare bene il proprio lavoro",
+      "è già difficile.",
+      "Fare anche quello degli altri, di più.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 203,
+    "saint": "S. Maria Maddalena",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’estate rende tutti più leggeri.\nTranne certi colleghi.",
+    "closing": null,
+    "rawLines": [
+      "“L’estate rende tutti più leggeri.",
+      "Tranne certi colleghi.”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 204,
+    "saint": "S. Brigida",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è importante sapere tutto.\nÈ importante sapere\nquando smettere di parlare.",
+    "closing": null,
+    "rawLines": [
+      "“Non è importante sapere tutto.",
+      "È importante sapere",
+      "quando smettere di parlare.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 205,
+    "saint": "S. Cristina",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi lavora bene\nnon ha bisogno di sembrare occupato.",
+    "closing": null,
+    "rawLines": [
+      "“Chi lavora bene",
+      "non ha bisogno di sembrare occupato.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 206,
+    "saint": "S. Giacomo Apostolo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che migliorano\nsolo quando le vedi da lontano.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che migliorano",
+      "solo quando le vedi da lontano.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 207,
+    "saint": "Ss. Anna e Gioacchino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono errori che insegnano.\nE altri che continuano\na presentarsi al lavoro.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono errori che insegnano.",
+      "E altri che continuano",
+      "a presentarsi al lavoro.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 208,
+    "saint": "S. Liliana",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il pezzo non mente.\nLa misura nemmeno.\nLe scuse sì.",
+    "closing": null,
+    "rawLines": [
+      "“Il pezzo non mente.",
+      "La misura nemmeno.",
+      "Le scuse sì.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 209,
+    "saint": "S. Nazario",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il rispetto non fa rumore.\nLa mancanza di rispetto sì.",
+    "closing": null,
+    "rawLines": [
+      "“Il rispetto non fa rumore.",
+      "La mancanza di rispetto sì.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 210,
+    "saint": "S. Marta",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il comunismo è affascinante:\nfinché a condividere\nsono sempre gli altri.",
+    "closing": null,
+    "rawLines": [
+      "“Il comunismo è affascinante:",
+      "finché a condividere",
+      "sono sempre gli altri.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 211,
+    "saint": "S. Pietro Crisologo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono giorni in cui\nil miglior risultato\nè arrivare a sera senza mandare affanculo nessuno.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono giorni in cui",
+      "il miglior risultato",
+      "è arrivare a sera senza mandare affanculo nessuno.”"
+    ]
+  },
+  {
+    "day": 31,
+    "month": "luglio",
+    "monthNumber": 7,
+    "dayOfYear": 212,
+    "saint": "S. Ignazio di Loyola",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Manca poco alle ferie.\nPrima che faccio una strage.",
+    "closing": null,
+    "rawLines": [
+      "“Manca poco alle ferie.",
+      "Prima che faccio una strage.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 213,
+    "saint": "S. Alfonso Maria de Liguori",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Agosto.\nManca poco alle ferie.\nNon rovinate tutto adesso.",
+    "closing": null,
+    "rawLines": [
+      "“Agosto.",
+      "Manca poco alle ferie.",
+      "Non rovinate tutto adesso.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 214,
+    "saint": "S. Eusebio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che ti fanno capire\nquanto sia importante\navere delle ferie.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che ti fanno capire",
+      "quanto sia importante",
+      "avere delle ferie.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 215,
+    "saint": "S. Lidia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Più si avvicinano le ferie,\npiù ogni richiesta\nsembra personale.",
+    "closing": null,
+    "rawLines": [
+      "“Più si avvicinano le ferie,",
+      "più ogni richiesta",
+      "sembra personale.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 216,
+    "saint": "S. Giovanni Maria Vianney",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ultimi giorni.\nAdesso serve solo\nnon fare cazzate.",
+    "closing": null,
+    "rawLines": [
+      "“Ultimi giorni.",
+      "Adesso serve solo",
+      "non fare cazzate.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 217,
+    "saint": "Dedicazione Basilica S. Maria Maggiore",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Giornata di pulizie.\nTra una pausa e l’altra\nqualcuno riesce anche a pulire.",
+    "closing": null,
+    "rawLines": [
+      "“Giornata di pulizie.",
+      "Tra una pausa e l’altra",
+      "qualcuno riesce anche a pulire.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 218,
+    "saint": "Trasfigurazione del Signore",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 219,
+    "saint": "S. Gaetano da Thiene",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 220,
+    "saint": "S. Domenico",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 221,
+    "saint": "S. Teresa Benedetta",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 222,
+    "saint": "S. Lorenzo",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 223,
+    "saint": "S. Chiara",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 224,
+    "saint": "S. Ercolano",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 225,
+    "saint": "S. Ponziano",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 226,
+    "saint": "S. Massimiliano Kolbe",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 227,
+    "saint": "Assunzione della B.V. Maria",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 228,
+    "saint": "S. Rocco",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 229,
+    "saint": "S. Giacinto",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 230,
+    "saint": "S. Elena",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 231,
+    "saint": "S. Giovanni Eudes",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 232,
+    "saint": "S. Bernardo",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 233,
+    "saint": "S. Pio X",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 234,
+    "saint": "B.V. Maria Regina",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 235,
+    "saint": "S. Rosa da Lima",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Qualunque problema può aspettare.",
+    "closing": null,
+    "rawLines": [
+      "“Qualunque problema può aspettare.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 236,
+    "saint": "S. Bartolomeo Apostolo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "RIAPERTO.\nPURTROPPO.",
+    "closing": null,
+    "rawLines": [
+      "RIAPERTO.",
+      "PURTROPPO."
+    ]
+  },
+  {
+    "day": 25,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 237,
+    "saint": "S. Ludovico",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il rientro dalle ferie insegna\nche la felicità\nha una data di scadenza.",
+    "closing": null,
+    "rawLines": [
+      "“Il rientro dalle ferie insegna",
+      "che la felicità",
+      "ha una data di scadenza.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 238,
+    "saint": "S. Alessandro",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Dopo le ferie\nnon serve motivazione.\nServe rassegnazione.",
+    "closing": null,
+    "rawLines": [
+      "“Dopo le ferie",
+      "non serve motivazione.",
+      "Serve rassegnazione.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 239,
+    "saint": "S. Monica",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "C’è chi torna dalle ferie riposato.\nE chi torna\nsemplicemente tornato.",
+    "closing": null,
+    "rawLines": [
+      "“C’è chi torna dalle ferie riposato.",
+      "E chi torna",
+      "semplicemente tornato.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 240,
+    "saint": "S. Agostino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il lavoro non scappa.\nInfatti era ancora tutto qui.",
+    "closing": null,
+    "rawLines": [
+      "“Il lavoro non scappa.",
+      "Infatti era ancora tutto qui.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 241,
+    "saint": "Martirio di S. Giovanni Battista",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Rientrare è facile.\nÈ ricominciare a sopportare tutti\nche richiede allenamento.",
+    "closing": null,
+    "rawLines": [
+      "“Rientrare è facile.",
+      "È ricominciare a sopportare tutti",
+      "che richiede allenamento.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 242,
+    "saint": "S. Faustina",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le ferie finiscono.\nLe rotture di coglioni\nsono a tempo indeterminato.",
+    "closing": null,
+    "rawLines": [
+      "“Le ferie finiscono.",
+      "Le rotture di coglioni",
+      "sono a tempo indeterminato.”"
+    ]
+  },
+  {
+    "day": 31,
+    "month": "agosto",
+    "monthNumber": 8,
+    "dayOfYear": 243,
+    "saint": "S. Aristide",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Agosto finisce.\nLa voglia di tornare indietro no.",
+    "closing": null,
+    "rawLines": [
+      "“Agosto finisce.",
+      "La voglia di tornare indietro no.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 244,
+    "saint": "S. Egidio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Settembre.\nSi ricomincia.\nPurtroppo sul serio.",
+    "closing": null,
+    "rawLines": [
+      "“Settembre.",
+      "Si ricomincia.",
+      "Purtroppo sul serio.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 245,
+    "saint": "S. Elpidio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che arrivano preparate.\nE altre che arrivano.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che arrivano preparate.",
+      "E altre che arrivano.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 246,
+    "saint": "S. Gregorio Magno",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se devi rifare il lavoro due volte,\nalmeno la seconda\nfalla come si deve.",
+    "closing": null,
+    "rawLines": [
+      "“Se devi rifare il lavoro due volte,",
+      "almeno la seconda",
+      "falla come si deve.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 247,
+    "saint": "S. Rosalia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Fare in fretta va bene.\nRifare tutto dopo, un po’ meno.",
+    "closing": null,
+    "rawLines": [
+      "“Fare in fretta va bene.",
+      "Rifare tutto dopo, un po’ meno.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 248,
+    "saint": "S. Teresa di Calcutta",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’esperienza non evita gli errori.\nTi fa solo riconoscere prima\nchi sta per farli.",
+    "closing": null,
+    "rawLines": [
+      "“L’esperienza non evita gli errori.",
+      "Ti fa solo riconoscere prima",
+      "chi sta per farli.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 249,
+    "saint": "S. Umberto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "C’è chi migliora con i consigli.\nE chi li considera un attacco personale.",
+    "closing": null,
+    "rawLines": [
+      "“C’è chi migliora con i consigli.",
+      "E chi li considera un attacco personale.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 250,
+    "saint": "S. Regina",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il lunedì è tornato.\nNoi non eravamo pronti.",
+    "closing": null,
+    "rawLines": [
+      "“Il lunedì è tornato.",
+      "Noi non eravamo pronti.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 251,
+    "saint": "Natività B.V. Maria",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è importante sembrare occupati.\nÈ importante esserlo davvero.",
+    "closing": null,
+    "rawLines": [
+      "“Non è importante sembrare occupati.",
+      "È importante esserlo davvero.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 252,
+    "saint": "S. Sergio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi lavora bene lascia risultati.\nGli altri lasciano spiegazioni.",
+    "closing": null,
+    "rawLines": [
+      "“Chi lavora bene lascia risultati.",
+      "Gli altri lasciano spiegazioni.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 253,
+    "saint": "S. Nicola da Tolentino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che parlano tanto\nperché i risultati\nhanno poco da dire.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che parlano tanto",
+      "perché i risultati",
+      "hanno poco da dire.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 254,
+    "saint": "S. Giacinto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il pezzo sbagliato\nalmeno non cerca scuse.",
+    "closing": null,
+    "rawLines": [
+      "“Il pezzo sbagliato",
+      "almeno non cerca scuse.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 255,
+    "saint": "Santissimo Nome di Maria",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Mara",
+    "quote": "A una persona capace\ndi sopravvivere a tutto.\nTranne, a quanto pare,\ntonno e melanzane.",
+    "closing": "Auguri, Mara!",
+    "rawLines": [
+      "“A una persona capace",
+      "di sopravvivere a tutto.",
+      "Tranne, a quanto pare,",
+      "tonno e melanzane.",
+      "Auguri, Mara!"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 256,
+    "saint": "S. Giovanni Crisostomo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il comunismo funziona benissimo:\nfinché a pagare\nè sempre qualcun altro.",
+    "closing": null,
+    "rawLines": [
+      "“Il comunismo funziona benissimo:",
+      "finché a pagare",
+      "è sempre qualcun altro.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 257,
+    "saint": "Esaltazione Santa Croce",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutto quello che sembra urgente\nlo è davvero.\nSpesso è solo organizzato male.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutto quello che sembra urgente",
+      "lo è davvero.",
+      "Spesso è solo organizzato male.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 258,
+    "saint": "B.V. Maria Addolorata",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono colleghi che ti aiutano.\nE colleghi che ti fanno apprezzare\nquelli che ti aiutano.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono colleghi che ti aiutano.",
+      "E colleghi che ti fanno apprezzare",
+      "quelli che ti aiutano.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 259,
+    "saint": "Ss. Cornelio e Cipriano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Un buon lavoro non ha bisogno\ndi troppe parole.\nUn brutto lavoro sì.",
+    "closing": null,
+    "rawLines": [
+      "“Un buon lavoro non ha bisogno",
+      "di troppe parole.",
+      "Un brutto lavoro sì.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 260,
+    "saint": "S. Roberto Bellarmino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è questione di carattere.\nÈ che certa gente\nha finito il bonus pazienza.",
+    "closing": null,
+    "rawLines": [
+      "“Non è questione di carattere.",
+      "È che certa gente",
+      "ha finito il bonus pazienza.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 261,
+    "saint": "S. Sofia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Alcuni problemi si risolvono.\nAltri timbrano il cartellino.",
+    "closing": null,
+    "rawLines": [
+      "“Alcuni problemi si risolvono.",
+      "Altri timbrano il cartellino.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 262,
+    "saint": "S. Gennaro",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Tre anni senza fumare.\nUna dipendenza in meno.\nLe altre le scegliamo meglio.",
+    "closing": null,
+    "rawLines": [
+      "“Tre anni senza fumare.",
+      "Una dipendenza in meno.",
+      "Le altre le scegliamo meglio.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 263,
+    "saint": "Ss. Martiri Coreani",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non porto rancore.\nMi basta ricordarmi bene.",
+    "closing": null,
+    "rawLines": [
+      "“Non porto rancore.",
+      "Mi basta ricordarmi bene.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 264,
+    "saint": "S. Matteo Apostolo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’autunno sta arrivando.\nLe rotture di coglioni\nnon hanno mai avuto stagione.",
+    "closing": null,
+    "rawLines": [
+      "“L’autunno sta arrivando.",
+      "Le rotture di coglioni",
+      "non hanno mai avuto stagione.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 265,
+    "saint": "S. Maurizio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se devi spiegare perché è venuto male,\nforse era meglio\nfarlo bene.",
+    "closing": null,
+    "rawLines": [
+      "“Se devi spiegare perché è venuto male,",
+      "forse era meglio",
+      "farlo bene.”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 266,
+    "saint": "S. Pio da Pietrelcina",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "C’è sempre qualcuno\nche complica una cosa semplice\ne poi si sente indispensabile.",
+    "closing": null,
+    "rawLines": [
+      "“C’è sempre qualcuno",
+      "che complica una cosa semplice",
+      "e poi si sente indispensabile.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 267,
+    "saint": "S. Pacifico",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutti quelli che hanno esperienza\nhanno imparato qualcosa.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutti quelli che hanno esperienza",
+      "hanno imparato qualcosa.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 268,
+    "saint": "S. Aurelia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se il pezzo è giusto\nnon serve una riunione\nper convincerlo.",
+    "closing": null,
+    "rawLines": [
+      "“Se il pezzo è giusto",
+      "non serve una riunione",
+      "per convincerlo.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 269,
+    "saint": "Ss. Cosma e Damiano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Più una persona parla di meritocrazia,\npiù conviene guardare\ncome è arrivata lì.",
+    "closing": null,
+    "rawLines": [
+      "“Più una persona parla di meritocrazia,",
+      "più conviene guardare",
+      "come è arrivata lì.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 270,
+    "saint": "S. Vincenzo de' Paoli",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è pessimismo.\nÈ statistica applicata\nalle persone.",
+    "closing": null,
+    "rawLines": [
+      "“Non è pessimismo.",
+      "È statistica applicata",
+      "alle persone.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 271,
+    "saint": "S. Venceslao",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Fare il minimo indispensabile\nè comunque troppo\nper qualcuno.",
+    "closing": null,
+    "rawLines": [
+      "“Fare il minimo indispensabile",
+      "è comunque troppo",
+      "per qualcuno.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 272,
+    "saint": "Ss. Michele, Gabriele e Raffaele",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone che migliorano\nquando imparano.\nAltre quando stanno zitte.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone che migliorano",
+      "quando imparano.",
+      "Altre quando stanno zitte.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "settembre",
+    "monthNumber": 9,
+    "dayOfYear": 273,
+    "saint": "S. Girolamo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Settembre è finito.\nTre mesi alla fine dell’anno.\nResistete.",
+    "closing": null,
+    "rawLines": [
+      "“Settembre è finito.",
+      "Tre mesi alla fine dell’anno.",
+      "Resistete.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 274,
+    "saint": "S. Teresa di Gesù Bambino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ottobre.\nLe giornate si accorciano.\nLa pazienza anche.",
+    "closing": null,
+    "rawLines": [
+      "“Ottobre.",
+      "Le giornate si accorciano.",
+      "La pazienza anche.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 275,
+    "saint": "Ss. Angeli Custodi",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutti i problemi\nhanno bisogno di una soluzione.\nAlcuni di ferie.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutti i problemi",
+      "hanno bisogno di una soluzione.",
+      "Alcuni di ferie.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 276,
+    "saint": "S. Gerardo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il bello del lavoro preciso\nè che le cazzate\nsi vedono subito.",
+    "closing": null,
+    "rawLines": [
+      "“Il bello del lavoro preciso",
+      "è che le cazzate",
+      "si vedono subito.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 277,
+    "saint": "S. Francesco d'Assisi",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone\nche riescono a complicare\nanche quello che funziona.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone",
+      "che riescono a complicare",
+      "anche quello che funziona.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 278,
+    "saint": "S. Placido",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se una cosa è semplice,\nqualcuno troverà il modo\ndi farla diventare una procedura.",
+    "closing": null,
+    "rawLines": [
+      "“Se una cosa è semplice,",
+      "qualcuno troverà il modo",
+      "di farla diventare una procedura.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 279,
+    "saint": "S. Bruno",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non è che manca il tempo.\nA volte manca proprio\nla voglia di sprecarlo.",
+    "closing": null,
+    "rawLines": [
+      "“Non è che manca il tempo.",
+      "A volte manca proprio",
+      "la voglia di sprecarlo.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 280,
+    "saint": "B.V. Maria del Rosario",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Chi sa fare davvero\nha meno bisogno\ndi farlo sapere.",
+    "closing": null,
+    "rawLines": [
+      "“Chi sa fare davvero",
+      "ha meno bisogno",
+      "di farlo sapere.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 281,
+    "saint": "S. Pelagia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il problema non è sbagliare.\nÈ avere sempre una spiegazione\ne mai una soluzione.",
+    "closing": null,
+    "rawLines": [
+      "“Il problema non è sbagliare.",
+      "È avere sempre una spiegazione",
+      "e mai una soluzione.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 282,
+    "saint": "S. Dionigi",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Lanz ed Enea",
+    "quote": "Uno a birra.\nL’altro a gin tonic.\nL’importante è non lasciarli a secco.",
+    "closing": "Auguri, Lanz ed Enea.",
+    "rawLines": [
+      "“Uno a birra.",
+      "L’altro a gin tonic.",
+      "L’importante è non lasciarli a secco.",
+      "Auguri, Lanz ed Enea.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 283,
+    "saint": "S. Daniele",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono giornate\nin cui lavorare bene\nsembra quasi una provocazione.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono giornate",
+      "in cui lavorare bene",
+      "sembra quasi una provocazione.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 284,
+    "saint": "S. Giovanni XXIII",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutto quello che luccica è oro.\nA volte è solo\nuna finitura fatta bene.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutto quello che luccica è oro.",
+      "A volte è solo",
+      "una finitura fatta bene.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 285,
+    "saint": "S. Serafino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’esperienza aiuta.\nLa memoria evita\ndi fidarsi due volte.",
+    "closing": null,
+    "rawLines": [
+      "“L’esperienza aiuta.",
+      "La memoria evita",
+      "di fidarsi due volte.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 286,
+    "saint": "S. Edoardo",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Tigre",
+    "quote": "Mangiare bene.\nTrombare spesso.\nBrontolare sempre.",
+    "closing": "Auguri, Tigre.",
+    "rawLines": [
+      "“Mangiare bene.",
+      "Trombare spesso.",
+      "Brontolare sempre.",
+      "Auguri, Tigre.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 287,
+    "saint": "S. Callisto",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Davide",
+    "quote": "Il lavoro lo stanca.\nI racchettoni lo distraggono.\nIl sushi lo motiva.\nIl conto lo preoccupa.",
+    "closing": "Auguri, Davide.",
+    "rawLines": [
+      "“Il lavoro lo stanca.",
+      "I racchettoni lo distraggono.",
+      "Il sushi lo motiva.",
+      "Il conto lo preoccupa.",
+      "Auguri, Davide.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 288,
+    "saint": "S. Teresa d'Avila",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono colleghi\nche ti fanno venire voglia\ndi lavorare da solo.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono colleghi",
+      "che ti fanno venire voglia",
+      "di lavorare da solo.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 289,
+    "saint": "S. Edvige",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve essere fenomeni.\nBasta non essere\nun problema aggiuntivo.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve essere fenomeni.",
+      "Basta non essere",
+      "un problema aggiuntivo.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 290,
+    "saint": "S. Ignazio d'Antiochia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Quando uno dice\n‘ci penso io’,\ncontrolla comunque.",
+    "closing": null,
+    "rawLines": [
+      "“Quando uno dice",
+      "‘ci penso io’,",
+      "controlla comunque.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 291,
+    "saint": "S. Luca Evangelista",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il comunismo è generosità.\nSoprattutto\ncon la roba degli altri.",
+    "closing": null,
+    "rawLines": [
+      "“Il comunismo è generosità.",
+      "Soprattutto",
+      "con la roba degli altri.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 292,
+    "saint": "S. Paolo della Croce",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutti quelli che sembrano tranquilli\nlo sono davvero.\nAlcuni hanno solo rinunciato a spiegare.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutti quelli che sembrano tranquilli",
+      "lo sono davvero.",
+      "Alcuni hanno solo rinunciato a spiegare.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 293,
+    "saint": "S. Irene",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se devi chiedere\nse il pezzo va bene,\nprobabilmente lo sai già.",
+    "closing": null,
+    "rawLines": [
+      "“Se devi chiedere",
+      "se il pezzo va bene,",
+      "probabilmente lo sai già.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 294,
+    "saint": "S. Orsola",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone\nche aggiungono valore.\nAltre aggiungono lavoro.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone",
+      "che aggiungono valore.",
+      "Altre aggiungono lavoro.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 295,
+    "saint": "S. Giovanni Paolo II",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Essere pazienti è importante.\nScegliere con chi esserlo, di più.",
+    "closing": null,
+    "rawLines": [
+      "“Essere pazienti è importante.",
+      "Scegliere con chi esserlo, di più.”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 296,
+    "saint": "S. Giovanni da Capestrano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il problema delle cattive idee\nè che spesso\narrivano dette con sicurezza.",
+    "closing": null,
+    "rawLines": [
+      "“Il problema delle cattive idee",
+      "è che spesso",
+      "arrivano dette con sicurezza.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 297,
+    "saint": "S. Antonio Maria Claret",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve parlare forte.\nSe hai ragione\nbasta molto meno.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve parlare forte.",
+      "Se hai ragione",
+      "basta molto meno.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 298,
+    "saint": "S. Crispino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il silenzio è gratis.\nPeccato che pochi lo usino.",
+    "closing": null,
+    "rawLines": [
+      "“Il silenzio è gratis.",
+      "Peccato che pochi lo usino.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 299,
+    "saint": "S. Evaristo",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "a me",
+    "quote": "L’età porta esperienza.\nL’esperienza toglie pazienza.",
+    "closing": "Auguri a me.",
+    "rawLines": [
+      "“L’età porta esperienza.",
+      "L’esperienza toglie pazienza.",
+      "Auguri a me.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 300,
+    "saint": "S. Fiorenzo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Un anno in più.\nStessa faccia.\nMeno tolleranza.",
+    "closing": null,
+    "rawLines": [
+      "“Un anno in più.",
+      "Stessa faccia.",
+      "Meno tolleranza.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 301,
+    "saint": "Ss. Simone e Giuda",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Quando hai poca pazienza\nil vantaggio è che\nla gente lo capisce prima.",
+    "closing": null,
+    "rawLines": [
+      "“Quando hai poca pazienza",
+      "il vantaggio è che",
+      "la gente lo capisce prima.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 302,
+    "saint": "S. Ermelinda",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono giornate produttive.\nE giornate in cui\nè già tanto non peggiorare le cose.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono giornate produttive.",
+      "E giornate in cui",
+      "è già tanto non peggiorare le cose.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 303,
+    "saint": "S. Germano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Domani Halloween.\nFinalmente certa gente\npuò uscire senza travestirsi.",
+    "closing": null,
+    "rawLines": [
+      "“Domani Halloween.",
+      "Finalmente certa gente",
+      "può uscire senza travestirsi.”"
+    ]
+  },
+  {
+    "day": 31,
+    "month": "ottobre",
+    "monthNumber": 10,
+    "dayOfYear": 304,
+    "saint": "S. Quintino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Halloween.\nMostri, fantasmi e facce inquietanti.\nPraticamente un giorno normale in reparto.",
+    "closing": null,
+    "rawLines": [
+      "“Halloween.",
+      "Mostri, fantasmi e facce inquietanti.",
+      "Praticamente un giorno normale in reparto.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 305,
+    "saint": "Tutti i Santi",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ognissanti.\nPer qualcuno\nserve davvero un miracolo.",
+    "closing": null,
+    "rawLines": [
+      "“Ognissanti.",
+      "Per qualcuno",
+      "serve davvero un miracolo.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 306,
+    "saint": "Commemorazione dei Defunti",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Certe assenze\nfanno ancora rumore.",
+    "closing": null,
+    "rawLines": [
+      "“Certe assenze",
+      "fanno ancora rumore.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 307,
+    "saint": "S. Martino de Porres",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono persone affidabili.\nE persone che ti insegnano\na controllare due volte.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono persone affidabili.",
+      "E persone che ti insegnano",
+      "a controllare due volte.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 308,
+    "saint": "S. Carlo Borromeo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Un Paese si difende\nanche ricordando chi l’ha fatto\nprima di noi.\n4 novembre.",
+    "closing": null,
+    "rawLines": [
+      "“Un Paese si difende",
+      "anche ricordando chi l’ha fatto",
+      "prima di noi.",
+      "4 novembre.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 309,
+    "saint": "S. Zaccaria",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il problema non è la fretta.\nÈ la fretta\nnelle mani sbagliate.",
+    "closing": null,
+    "rawLines": [
+      "“Il problema non è la fretta.",
+      "È la fretta",
+      "nelle mani sbagliate.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 310,
+    "saint": "S. Leonardo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Certe persone non lavorano male.\nRiescono proprio\na complicare il concetto.",
+    "closing": null,
+    "rawLines": [
+      "“Certe persone non lavorano male.",
+      "Riescono proprio",
+      "a complicare il concetto.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 311,
+    "saint": "S. Ernesto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Essere precisi\nnon significa essere lenti.\nSignifica evitare di rifare tutto.",
+    "closing": null,
+    "rawLines": [
+      "“Essere precisi",
+      "non significa essere lenti.",
+      "Significa evitare di rifare tutto.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 312,
+    "saint": "S. Goffredo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono colleghi\nche non risolvono problemi.\nLi tengono semplicemente in vita.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono colleghi",
+      "che non risolvono problemi.",
+      "Li tengono semplicemente in vita.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 313,
+    "saint": "Dedicazione Basilica Lateranense",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Quando tutti hanno un’opinione,\ndi solito manca qualcuno\nche sappia davvero cosa fare.",
+    "closing": null,
+    "rawLines": [
+      "“Quando tutti hanno un’opinione,",
+      "di solito manca qualcuno",
+      "che sappia davvero cosa fare.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 314,
+    "saint": "S. Leone Magno",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le tolleranze hanno un pregio:\nnon ascoltano opinioni.",
+    "closing": null,
+    "rawLines": [
+      "“Le tolleranze hanno un pregio:",
+      "non ascoltano opinioni.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 315,
+    "saint": "S. Martino di Tours",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’errore è umano.\nInsistere richiede talento.",
+    "closing": null,
+    "rawLines": [
+      "“L’errore è umano.",
+      "Insistere richiede talento.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 316,
+    "saint": "S. Renato",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve essere i migliori.\nBasta non essere\nquelli da aspettare sempre.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve essere i migliori.",
+      "Basta non essere",
+      "quelli da aspettare sempre.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 317,
+    "saint": "S. Diego",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Più impari il mestiere,\nmeno ti impressionano\nquelli che parlano tanto.",
+    "closing": null,
+    "rawLines": [
+      "“Più impari il mestiere,",
+      "meno ti impressionano",
+      "quelli che parlano tanto.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 318,
+    "saint": "S. Giocondo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il venerdì ha un pregio:\nprima o poi\nfinisce anche questa settimana.",
+    "closing": null,
+    "rawLines": [
+      "“Il venerdì ha un pregio:",
+      "prima o poi",
+      "finisce anche questa settimana.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 319,
+    "saint": "S. Alberto Magno",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Francesca",
+    "quote": "Gli anni passano.\nLa pazienza cambia.\nIl carattere resta.",
+    "closing": "Auguri, Francesca.",
+    "rawLines": [
+      "“Gli anni passano.",
+      "La pazienza cambia.",
+      "Il carattere resta.",
+      "Auguri, Francesca.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 320,
+    "saint": "S. Margherita di Scozia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il lavoro sarebbe anche bello.\nÈ tutto il contorno\nche rovina l’esperienza.",
+    "closing": null,
+    "rawLines": [
+      "“Il lavoro sarebbe anche bello.",
+      "È tutto il contorno",
+      "che rovina l’esperienza.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 321,
+    "saint": "S. Elisabetta d'Ungheria",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se per spiegare una cosa semplice\nservono venti minuti,\nqualcosa è già andato storto.",
+    "closing": null,
+    "rawLines": [
+      "“Se per spiegare una cosa semplice",
+      "servono venti minuti,",
+      "qualcosa è già andato storto.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 322,
+    "saint": "Dedicazione Basiliche Pietro e Paolo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il comunismo ha sempre una soluzione:\ndividere meglio\nquello che hanno prodotto gli altri.",
+    "closing": null,
+    "rawLines": [
+      "“Il comunismo ha sempre una soluzione:",
+      "dividere meglio",
+      "quello che hanno prodotto gli altri.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 323,
+    "saint": "S. Fausto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Certe persone meritano fiducia.\nAltre il controllo al 100%.",
+    "closing": null,
+    "rawLines": [
+      "“Certe persone meritano fiducia.",
+      "Altre il controllo al 100%.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 324,
+    "saint": "S. Benigno",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Fare bene il proprio lavoro\nè già una bella presentazione.",
+    "closing": null,
+    "rawLines": [
+      "“Fare bene il proprio lavoro",
+      "è già una bella presentazione.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 325,
+    "saint": "Presentazione B.V. Maria",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono giorni\nin cui una scrivania vuota\nmette di buon umore.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono giorni",
+      "in cui una scrivania vuota",
+      "mette di buon umore.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 326,
+    "saint": "S. Cecilia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Lascia parlare la gente.\nPrima o poi\nsi presenta da sola.",
+    "closing": null,
+    "rawLines": [
+      "“Lascia parlare la gente.",
+      "Prima o poi",
+      "si presenta da sola.”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 327,
+    "saint": "S. Clemente",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il freddo arriva.\nLa gente pesante\nera già qui.",
+    "closing": null,
+    "rawLines": [
+      "“Il freddo arriva.",
+      "La gente pesante",
+      "era già qui.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 328,
+    "saint": "S. Flora",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Quando il problema\nha sempre lo stesso nome,\nforse non è più un caso.",
+    "closing": null,
+    "rawLines": [
+      "“Quando il problema",
+      "ha sempre lo stesso nome,",
+      "forse non è più un caso.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 329,
+    "saint": "S. Caterina d'Alessandria",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il rispetto non è una parola.\nÈ quello che rimane\nquando nessuno ti obbliga.",
+    "closing": null,
+    "rawLines": [
+      "“Il rispetto non è una parola.",
+      "È quello che rimane",
+      "quando nessuno ti obbliga.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 330,
+    "saint": "S. Corrado",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il talento serve.\nMa senza testa\ndiventa solo un rischio.",
+    "closing": null,
+    "rawLines": [
+      "“Il talento serve.",
+      "Ma senza testa",
+      "diventa solo un rischio.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 331,
+    "saint": "S. Virgilio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Ci sono colleghi\nche risolvono problemi.\nE colleghi che danno materiale ai primi.",
+    "closing": null,
+    "rawLines": [
+      "“Ci sono colleghi",
+      "che risolvono problemi.",
+      "E colleghi che danno materiale ai primi.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 332,
+    "saint": "S. Giacomo della Marca",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Essere bravi è utile.\nEssere affidabili\nmolto di più.",
+    "closing": null,
+    "rawLines": [
+      "“Essere bravi è utile.",
+      "Essere affidabili",
+      "molto di più.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 333,
+    "saint": "S. Saturnino",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve essere d’accordo.\nBasta non essere coglioni.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve essere d’accordo.",
+      "Basta non essere coglioni.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "novembre",
+    "monthNumber": 11,
+    "dayOfYear": 334,
+    "saint": "S. Andrea Apostolo",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Novembre è finito.\nAdesso arriva il mese\ndelle cene, dei regali e delle balle.",
+    "closing": null,
+    "rawLines": [
+      "“Novembre è finito.",
+      "Adesso arriva il mese",
+      "delle cene, dei regali e delle balle.”"
+    ]
+  },
+  {
+    "day": 1,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 335,
+    "saint": "S. Ansano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Dicembre.\nIl mese in cui la dieta\ndiventa un problema di gennaio.",
+    "closing": null,
+    "rawLines": [
+      "“Dicembre.",
+      "Il mese in cui la dieta",
+      "diventa un problema di gennaio.”"
+    ]
+  },
+  {
+    "day": 2,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 336,
+    "saint": "S. Bibiana",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Dicembre è iniziato.\nAdesso fingiamo tutti\ndi essere più buoni.",
+    "closing": null,
+    "rawLines": [
+      "“Dicembre è iniziato.",
+      "Adesso fingiamo tutti",
+      "di essere più buoni.”"
+    ]
+  },
+  {
+    "day": 3,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 337,
+    "saint": "S. Francesco Saverio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "I soldi non fanno la felicità.\nMa aiutano parecchio\na scegliere dove essere tristi.",
+    "closing": null,
+    "rawLines": [
+      "“I soldi non fanno la felicità.",
+      "Ma aiutano parecchio",
+      "a scegliere dove essere tristi.”"
+    ]
+  },
+  {
+    "day": 4,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 338,
+    "saint": "S. Barbara",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se la vita ti chiude una porta,\ncontrolla che non fosse\nsemplicemente da tirare.",
+    "closing": null,
+    "rawLines": [
+      "“Se la vita ti chiude una porta,",
+      "controlla che non fosse",
+      "semplicemente da tirare.”"
+    ]
+  },
+  {
+    "day": 5,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 339,
+    "saint": "S. Saba",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il segreto per una vita felice?\nFai come il cane:\nse ti piace, mangialo o giocaci.\nAltrimenti pisciaci sopra e passa oltre.",
+    "closing": null,
+    "rawLines": [
+      "“Il segreto per una vita felice?",
+      "Fai come il cane:",
+      "se ti piace, mangialo o giocaci.",
+      "Altrimenti pisciaci sopra e passa oltre.”"
+    ]
+  },
+  {
+    "day": 6,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 340,
+    "saint": "S. Nicola di Bari",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non ho bisogno di terapia.\nHo bisogno\ndi soldi e ferie.",
+    "closing": null,
+    "rawLines": [
+      "“Non ho bisogno di terapia.",
+      "Ho bisogno",
+      "di soldi e ferie.”"
+    ]
+  },
+  {
+    "day": 7,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 341,
+    "saint": "S. Ambrogio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Le persone cambiano.\nSoprattutto quando\ntocca pagare.",
+    "closing": null,
+    "rawLines": [
+      "“Le persone cambiano.",
+      "Soprattutto quando",
+      "tocca pagare.”"
+    ]
+  },
+  {
+    "day": 8,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 342,
+    "saint": "Immacolata Concezione",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Immacolata.\nOggi siamo tutti più puri.\nDomani si torna normali.",
+    "closing": null,
+    "rawLines": [
+      "“Immacolata.",
+      "Oggi siamo tutti più puri.",
+      "Domani si torna normali.”"
+    ]
+  },
+  {
+    "day": 9,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 343,
+    "saint": "S. Siro",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non inseguire chi se ne va.\nPotrebbe rallentare.",
+    "closing": null,
+    "rawLines": [
+      "“Non inseguire chi se ne va.",
+      "Potrebbe rallentare.”"
+    ]
+  },
+  {
+    "day": 10,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 344,
+    "saint": "B.V. Maria di Loreto",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La felicità è fatta di piccole cose.\nTipo una bottiglia grande.",
+    "closing": null,
+    "rawLines": [
+      "“La felicità è fatta di piccole cose.",
+      "Tipo una bottiglia grande.”"
+    ]
+  },
+  {
+    "day": 11,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 345,
+    "saint": "S. Damaso",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "A volte bisogna essere maturi.\nAltre volte basta\nordinare un altro gin tonic.",
+    "closing": null,
+    "rawLines": [
+      "“A volte bisogna essere maturi.",
+      "Altre volte basta",
+      "ordinare un altro gin tonic.”"
+    ]
+  },
+  {
+    "day": 12,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 346,
+    "saint": "B.V. Maria di Guadalupe",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Fede",
+    "quote": "Poca pazienza.\nGran cuore.\nDice quello che pensa,\nma quando serve c’è sempre.",
+    "closing": "Buon compleanno, Fede.",
+    "rawLines": [
+      "“Poca pazienza.",
+      "Gran cuore.",
+      "Dice quello che pensa,",
+      "ma quando serve c’è sempre.",
+      "Buon compleanno, Fede.”"
+    ]
+  },
+  {
+    "day": 13,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 347,
+    "saint": "S. Lucia",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Mangiare bene è importante.\nBere bene\naiuta a dimenticare il resto.",
+    "closing": null,
+    "rawLines": [
+      "“Mangiare bene è importante.",
+      "Bere bene",
+      "aiuta a dimenticare il resto.”"
+    ]
+  },
+  {
+    "day": 14,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 348,
+    "saint": "S. Giovanni della Croce",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il comunismo a Natale\nè perfetto:\ni regali li comprano gli altri\ne poi si dividono.",
+    "closing": null,
+    "rawLines": [
+      "“Il comunismo a Natale",
+      "è perfetto:",
+      "i regali li comprano gli altri",
+      "e poi si dividono.”"
+    ]
+  },
+  {
+    "day": 15,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 349,
+    "saint": "S. Valeriano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "La famiglia è bellissima.\nSoprattutto quando\nognuno torna a casa sua.",
+    "closing": null,
+    "rawLines": [
+      "“La famiglia è bellissima.",
+      "Soprattutto quando",
+      "ognuno torna a casa sua.”"
+    ]
+  },
+  {
+    "day": 16,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 350,
+    "saint": "S. Adelaide",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non tutto quello che perdi\nva ritrovato.\nA volte hai avuto culo.",
+    "closing": null,
+    "rawLines": [
+      "“Non tutto quello che perdi",
+      "va ritrovato.",
+      "A volte hai avuto culo.”"
+    ]
+  },
+  {
+    "day": 17,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 351,
+    "saint": "S. Lazzaro",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Gardenghi",
+    "quote": "Sei riuscito ad arrivare sveglio\nfino al tuo compleanno?\nE senza farti arrestare?\nAllora auguri, Gardenghi.",
+    "closing": null,
+    "rawLines": [
+      "“Sei riuscito ad arrivare sveglio",
+      "fino al tuo compleanno?",
+      "E senza farti arrestare?",
+      "Allora auguri, Gardenghi.”"
+    ]
+  },
+  {
+    "day": 18,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 352,
+    "saint": "S. Graziano",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il Natale porta tutti più vicini.\nEd è proprio questo\nil problema.",
+    "closing": null,
+    "rawLines": [
+      "“Il Natale porta tutti più vicini.",
+      "Ed è proprio questo",
+      "il problema.”"
+    ]
+  },
+  {
+    "day": 19,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 353,
+    "saint": "S. Dario",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non serve avere tutto.\nBasta avere abbastanza\nda non dover chiedere niente.",
+    "closing": null,
+    "rawLines": [
+      "“Non serve avere tutto.",
+      "Basta avere abbastanza",
+      "da non dover chiedere niente.”"
+    ]
+  },
+  {
+    "day": 20,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 354,
+    "saint": "S. Liberato",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il vino non risolve i problemi.\nMa neanche l’acqua\nha mai fatto miracoli.",
+    "closing": null,
+    "rawLines": [
+      "“Il vino non risolve i problemi.",
+      "Ma neanche l’acqua",
+      "ha mai fatto miracoli.”"
+    ]
+  },
+  {
+    "day": 21,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 355,
+    "saint": "S. Pietro Canisio",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "L’inverno è iniziato.\nAdesso possiamo\nlamentarci del freddo.",
+    "closing": null,
+    "rawLines": [
+      "“L’inverno è iniziato.",
+      "Adesso possiamo",
+      "lamentarci del freddo.”"
+    ]
+  },
+  {
+    "day": 22,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 356,
+    "saint": "S. Francesca Saverio Cabrini",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se devi fare un regalo utile,\nregala soldi.\nAlmeno non sbagli.",
+    "closing": null,
+    "rawLines": [
+      "“Se devi fare un regalo utile,",
+      "regala soldi.",
+      "Almeno non sbagli.”"
+    ]
+  },
+  {
+    "day": 23,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 357,
+    "saint": "S. Giovanni da Kety",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Domani ferie.\nQualunque problema\npuò diventare un problema di gennaio.",
+    "closing": null,
+    "rawLines": [
+      "“Domani ferie.",
+      "Qualunque problema",
+      "può diventare un problema di gennaio.”"
+    ]
+  },
+  {
+    "day": 24,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 358,
+    "saint": "S. Adele",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Se è urgente,\nlo sarà anche dopo Natale.",
+    "closing": null,
+    "rawLines": [
+      "“Se è urgente,",
+      "lo sarà anche dopo Natale.”"
+    ]
+  },
+  {
+    "day": 25,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 359,
+    "saint": "Natale del Signore",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Natale.\nMangiate, bevete\ne non rompete i coglioni.",
+    "closing": "Buon Natale.",
+    "rawLines": [
+      "“Natale.",
+      "Mangiate, bevete",
+      "e non rompete i coglioni.",
+      "Buon Natale.”"
+    ]
+  },
+  {
+    "day": 26,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 360,
+    "saint": "S. Stefano",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Oggi si recupera\ndalla fatica\ndi aver mangiato troppo.",
+    "closing": null,
+    "rawLines": [
+      "“Oggi si recupera",
+      "dalla fatica",
+      "di aver mangiato troppo.”"
+    ]
+  },
+  {
+    "day": 27,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 361,
+    "saint": "S. Giovanni Evangelista",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Non disturbare.\nStiamo facendo pratica\ncon il non fare niente.",
+    "closing": null,
+    "rawLines": [
+      "“Non disturbare.",
+      "Stiamo facendo pratica",
+      "con il non fare niente.”"
+    ]
+  },
+  {
+    "day": 28,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 362,
+    "saint": "Ss. Innocenti Martiri",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Il lavoro può aspettare.\nNoi stiamo benissimo così.",
+    "closing": null,
+    "rawLines": [
+      "“Il lavoro può aspettare.",
+      "Noi stiamo benissimo così.”"
+    ]
+  },
+  {
+    "day": 29,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 363,
+    "saint": "S. Tommaso Becket",
+    "isFerie": false,
+    "isBirthday": true,
+    "birthdayPerson": "Conti",
+    "quote": "Ti auguro tanta salute.\nMa qualche giorno di ferie in più\nnon mi dispiacerebbe.",
+    "closing": "Buon compleanno, Conti.",
+    "rawLines": [
+      "“Ti auguro tanta salute.",
+      "Ma qualche giorno di ferie in più",
+      "non mi dispiacerebbe.",
+      "Buon compleanno, Conti.”"
+    ]
+  },
+  {
+    "day": 30,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 364,
+    "saint": "S. Eugenio",
+    "isFerie": true,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "Domani finisce l’anno.\nLe cazzate no.",
+    "closing": null,
+    "rawLines": [
+      "“Domani finisce l’anno.",
+      "Le cazzate no.”"
+    ]
+  },
+  {
+    "day": 31,
+    "month": "dicembre",
+    "monthNumber": 12,
+    "dayOfYear": 365,
+    "saint": "S. Silvestro I Papa",
+    "isFerie": false,
+    "isBirthday": false,
+    "birthdayPerson": null,
+    "quote": "365 giorni.\nQualche soddisfazione.\nParecchie cazzate.\nE abbastanza motivi per rifarlo.",
+    "closing": "Buon 2028 Stronzi.",
+    "rawLines": [
+      "“365 giorni.",
+      "Qualche soddisfazione.",
+      "Parecchie cazzate.",
+      "E abbastanza motivi per rifarlo.",
+      "Buon 2028 Stronzi.”"
+    ]
+  }
+]
