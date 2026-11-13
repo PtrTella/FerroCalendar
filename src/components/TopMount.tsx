@@ -18,37 +18,18 @@ export const TopMount: React.FC<TopMountProps> = ({ onTear, canTear = true }) =>
         {/* Subtle texture highlight */}
         <div className="absolute inset-0 bg-white/5 pointer-events-none"></div>
 
-        {/* Brand layout mimicking the original photo with Andalò Gianni details */}
-        <div className="flex items-center justify-between gap-1.5 sm:gap-2 relative z-10">
-          {/* Left sub-info */}
-          <div className="text-[8px] sm:text-[9px] text-stone-300 leading-tight font-medium flex-1">
-            <p className="font-bold text-white uppercase tracking-wider">Andalò Gianni srl</p>
-            <p className="text-stone-300">Via Serraglio, 46 - Imola (BO)</p>
-            <p className="text-[7.5px] sm:text-[8px] text-stone-400">Tel. 0542 640387</p>
+        {/* Clean Centered Logo & Slogan */}
+        <div className="flex flex-col items-center justify-center py-1.5 relative z-10">
+          <div className="bg-white px-3.5 py-1 rounded-md shadow-md border border-stone-300/80 flex items-center justify-center">
+            <img 
+              src="./andalo-logo.png" 
+              alt="Andalò Gianni - Meccanica di alta precisione" 
+              className="h-7 sm:h-8 w-auto object-contain"
+            />
           </div>
-
-          {/* Central Logo Box */}
-          <div className="flex flex-col items-center flex-shrink-0 mx-1">
-            <div className="bg-white px-2 py-0.5 rounded-md shadow-md border border-stone-200 flex items-center justify-center">
-              <img 
-                src="./andalo-logo.png" 
-                alt="Andalò Gianni - Meccanica di alta precisione" 
-                className="h-6 sm:h-7 w-auto object-contain"
-              />
-            </div>
-            <span className="text-[7px] sm:text-[7.5px] text-stone-300 tracking-wider uppercase font-semibold mt-0.5">
-              Meccanica di precisione dal 1968
-            </span>
-          </div>
-
-          {/* Right sub-info */}
-          <div className="text-[8px] sm:text-[9px] text-stone-300 text-right leading-tight font-medium flex-1">
-            <p className="font-bold text-white">www.andalogianni.com</p>
-            <p className="text-stone-300">info@andalogianni.com</p>
-            <p className="text-[7.5px] sm:text-[8px] text-amber-400 font-bold uppercase tracking-wide">
-              Edizione Ferro 2027
-            </p>
-          </div>
+          <span className="text-[8px] sm:text-[9px] text-stone-200 tracking-wider uppercase font-semibold mt-1 text-center">
+            Meccanica di alta precisione dal 1968
+          </span>
         </div>
 
         {/* Silver staples/metal fasteners */}

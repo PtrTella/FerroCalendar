@@ -10,6 +10,7 @@ interface CalendarLeafProps {
   isRestoring?: boolean;
   onTear?: () => void;
   variant?: 'interactive' | 'print' | 'stack';
+  printLayout?: 'single' | 'grid4';
   className?: string;
   id?: string;
 }
@@ -21,6 +22,7 @@ export const CalendarLeaf: React.FC<CalendarLeafProps> = ({
   isRestoring = false,
   onTear,
   variant = 'interactive',
+  printLayout,
   className = '',
   id,
 }) => {
@@ -39,16 +41,17 @@ export const CalendarLeaf: React.FC<CalendarLeafProps> = ({
 
   const isInteractive = variant === 'interactive';
   const isPrint = variant === 'print';
+  const isSinglePrint = isPrint && printLayout === 'single';
+  const isGridPrint = isPrint && printLayout === 'grid4';
 
   return (
     <div
       id={id}
       onClick={isInteractive && onTear ? onTear : undefined}
       className={`
-        relative w-full max-w-[390px] aspect-[1/1.46] mx-auto 
-        bg-paper-texture rounded-b-md text-calendar-charcoal 
+        relative w-full ${isPrint ? 'max-w-none' : 'max-w-[390px]'} aspect-[1/1.46] mx-auto 
+        ${isPrint ? 'bg-white text-black printable-sheet' : 'bg-paper-texture rounded-b-md text-calendar-charcoal shadow-paper transition-transform duration-200'}
         flex flex-col justify-between select-none
-        ${isPrint ? 'printable-sheet border border-stone-200' : 'shadow-paper transition-transform duration-200'}
         ${isInteractive ? 'cursor-pointer hover:shadow-2xl' : ''}
         ${animClass}
         ${className}
@@ -61,19 +64,35 @@ export const CalendarLeaf: React.FC<CalendarLeafProps> = ({
       <CalendarBorder year={year} />
 
       {/* TOP SECTION: Day of Week & Giant Date */}
-      <div className="relative z-10 pt-9 px-8 text-center flex flex-col items-center">
+      <div 
+        className={`relative z-10 text-center flex flex-col items-center ${
+          isSinglePrint ? 'pt-[28mm] px-10' : isGridPrint ? 'pt-[14mm] px-4' : 'pt-12 sm:pt-14 px-8'
+        }`}
+      >
         {/* Day of the week in bold serif (lowercase as in original image) */}
-        <h2 className="font-serif font-black text-2xl sm:text-3xl tracking-wide text-stone-900 lowercase select-none">
+        <h2 
+          className={`font-serif font-black tracking-wide text-stone-900 lowercase select-none ${
+            isSinglePrint ? 'text-3xl sm:text-4xl' : isGridPrint ? 'text-lg sm:text-xl' : 'text-2xl sm:text-3xl'
+          }`}
+        >
           {dayOfWeek}
         </h2>
 
         {/* Giant Didone Date Number (e.g. 25) */}
-        <div className="my-[-4px] sm:my-[-8px] flex items-center justify-center leading-none">
+        <div className={`flex items-center justify-center leading-none ${
+          isSinglePrint ? 'my-1' : isGridPrint ? 'my-[-2px]' : 'my-[-4px] sm:my-[-6px]'
+        }`}>
           <span 
-            className="font-serif font-black text-[96px] sm:text-[124px] tracking-tighter text-[#161616] select-none"
+            className={`font-serif font-black tracking-tighter text-[#161616] select-none ${
+              isSinglePrint 
+                ? 'text-[124px] sm:text-[136px]' 
+                : isGridPrint 
+                ? 'text-[72px]' 
+                : 'text-[96px] sm:text-[120px]'
+            }`}
             style={{
               fontFeatureSettings: '"pnum" 1, "lnum" 1',
-              textShadow: '1px 1px 0px rgba(0,0,0,0.08)'
+              textShadow: isPrint ? 'none' : '1px 1px 0px rgba(0,0,0,0.08)'
             }}
           >
             {day.day}
@@ -81,19 +100,27 @@ export const CalendarLeaf: React.FC<CalendarLeafProps> = ({
         </div>
 
         {/* Month in bold serif (lowercase as in original image) */}
-        <h3 className="font-serif font-extrabold text-2xl sm:text-3xl tracking-tight text-stone-900 lowercase select-none -mt-2">
+        <h3 
+          className={`font-serif font-extrabold tracking-tight text-stone-900 lowercase select-none ${
+            isSinglePrint ? 'text-3xl sm:text-4xl mt-1' : isGridPrint ? 'text-lg sm:text-xl mt-0.5' : 'text-2xl sm:text-3xl mt-0.5'
+          }`}
+        >
           {day.month}
         </h3>
 
         {/* Saint / Onomastico (or empty spacer) */}
-        <p className="font-serif italic text-[11px] sm:text-xs text-stone-600 mt-1 select-none">
+        <p 
+          className={`font-serif italic text-stone-600 select-none ${
+            isSinglePrint ? 'text-sm mt-2' : isGridPrint ? 'text-[9.5px] mt-0.5' : 'text-[11px] sm:text-xs mt-1'
+          }`}
+        >
           {day.saint ? day.saint : ' '}
         </p>
 
         {/* Special status badge: CHIUSO PER FERIE or Birthday */}
         {day.isFerie && (
-          <div className="mt-2 animate-bounce-subtle">
-            <span className="stamp-ferie text-xs sm:text-sm">
+          <div className="mt-2">
+            <span className={`stamp-ferie ${isSinglePrint ? 'text-sm px-3.5 py-1' : isGridPrint ? 'text-[8.5px] px-1.5 py-0.5 border-2' : 'text-xs sm:text-sm'}`}>
               CHIUSO PER FERIE
             </span>
           </div>
@@ -101,7 +128,7 @@ export const CalendarLeaf: React.FC<CalendarLeafProps> = ({
 
         {!day.isFerie && day.isBirthday && day.birthdayPerson && (
           <div className="mt-1.5">
-            <span className="stamp-bday text-[10px] sm:text-xs">
+            <span className={`stamp-bday ${isSinglePrint ? 'text-xs px-3 py-1' : isGridPrint ? 'text-[8px] px-1.5 py-0.5' : 'text-[10px] sm:text-xs'}`}>
               ★ {day.birthdayPerson.toLowerCase() === 'a me' ? 'IL MIO COMPLEANNO' : `COMPLEANNO ${day.birthdayPerson.toUpperCase()}`} ★
             </span>
           </div>
@@ -109,12 +136,30 @@ export const CalendarLeaf: React.FC<CalendarLeafProps> = ({
       </div>
 
       {/* MIDDLE SECTION: The Daily Quote & Closing / Dedication */}
-      <div className="relative z-10 px-9 py-2 my-auto text-center flex flex-col items-center justify-center">
-        <div className="max-w-[300px] mx-auto space-y-1.5 sm:space-y-2">
+      <div 
+        className={`relative z-10 my-auto text-center flex flex-col items-center justify-center ${
+          isSinglePrint ? 'px-12 py-3' : isGridPrint ? 'px-4 py-1' : 'px-9 py-2'
+        }`}
+      >
+        <div 
+          className={`mx-auto ${
+            isSinglePrint 
+              ? 'max-w-[460px] space-y-2.5' 
+              : isGridPrint 
+              ? 'max-w-[240px] space-y-1' 
+              : 'max-w-[300px] space-y-1.5 sm:space-y-2'
+          }`}
+        >
           {quoteLines.map((line, idx) => (
             <p
               key={idx}
-              className="font-serif italic font-bold text-base sm:text-lg leading-snug sm:leading-relaxed text-stone-900 tracking-normal"
+              className={`font-serif italic font-bold tracking-normal text-stone-900 ${
+                isSinglePrint 
+                  ? 'text-xl sm:text-2xl leading-relaxed' 
+                  : isGridPrint 
+                  ? 'text-xs sm:text-[13px] leading-snug' 
+                  : 'text-base sm:text-lg leading-snug sm:leading-relaxed'
+              }`}
             >
               {line}
             </p>
@@ -123,8 +168,10 @@ export const CalendarLeaf: React.FC<CalendarLeafProps> = ({
 
         {/* Signature / Ending wish if present */}
         {day.closing && (
-          <div className="mt-3 pt-1 border-t border-stone-300/60 w-3/4">
-            <p className="font-serif italic font-semibold text-xs sm:text-sm text-stone-800 tracking-wide">
+          <div className={`border-t border-stone-300/60 w-3/4 ${isSinglePrint ? 'mt-4 pt-1.5' : isGridPrint ? 'mt-1.5 pt-0.5' : 'mt-3 pt-1'}`}>
+            <p className={`font-serif italic font-semibold text-stone-800 tracking-wide ${
+              isSinglePrint ? 'text-base' : isGridPrint ? 'text-[10.5px]' : 'text-xs sm:text-sm'
+            }`}>
               {day.closing}
             </p>
           </div>
@@ -132,20 +179,32 @@ export const CalendarLeaf: React.FC<CalendarLeafProps> = ({
       </div>
 
       {/* BOTTOM FOOTER SECTION: Classic Calendar Info Line */}
-      <div className="relative z-10 pb-4 px-8 text-center">
-        <div className="flex items-center justify-center gap-1.5 text-[8px] sm:text-[9px] text-stone-500 font-serif tracking-wider">
+      <div 
+        className={`relative z-10 text-center select-none ${
+          isSinglePrint ? 'pb-[22mm] px-8' : isGridPrint ? 'pb-[10mm] px-3' : 'pb-8 sm:pb-9 px-6'
+        }`}
+      >
+        <div 
+          className={`flex items-center justify-center gap-1.5 font-serif tracking-wider whitespace-nowrap overflow-hidden ${
+            isSinglePrint 
+              ? 'text-[10px] sm:text-[11px] text-stone-600' 
+              : isGridPrint 
+              ? 'text-[7px] text-stone-600' 
+              : 'text-[7.5px] sm:text-[8.5px] text-stone-600'
+          }`}
+        >
           <span>www.andalogianni.com</span>
-          <span>•</span>
-          <span>Andalò Gianni - Imola</span>
-          <span>•</span>
-          <span>{day.dayOfYear}/365</span>
+          <span className="text-stone-400">•</span>
+          <span className="font-semibold text-stone-700">Andalò Gianni - Imola</span>
+          <span className="text-stone-400">•</span>
+          <span className="font-mono">{day.dayOfYear}/365</span>
         </div>
       </div>
 
       {/* Corner tear prompt in interactive mode */}
       {isInteractive && !isTearing && (
         <div 
-          className="absolute bottom-2 right-2 text-stone-400/70 hover:text-red-600 transition-colors pointer-events-none text-[9px] uppercase tracking-wider font-mono flex items-center gap-0.5"
+          className="absolute bottom-4 right-4 text-stone-400/70 hover:text-red-600 transition-colors pointer-events-none text-[8.5px] uppercase tracking-wider font-mono flex items-center gap-0.5"
           title="Tocca o clicca per strappare"
         >
           <span>strappa ⤓</span>

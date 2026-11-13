@@ -52,9 +52,9 @@ export const PrintModal: React.FC<PrintModalProps> = ({
     }
 
     if (layoutMode === 'grid4') {
-      return `${Math.ceil(count / 4)} fogli A4 (4 giorni per foglio)`;
+      return `${Math.ceil(count / 4)} fogli A4 (4 giorni per foglio - taglio a croce)`;
     }
-    return `${count} pagine (${layoutMode === 'single' ? 'formato blocco A6/A5' : 'formato A4'})`;
+    return `${count} pagine A4 (1 giorno centrato per pagina)`;
   };
 
   return (
@@ -171,7 +171,7 @@ export const PrintModal: React.FC<PrintModalProps> = ({
                 <FileText className="w-4 h-4 mb-1 text-red-400" />
                 <span className="block text-xs font-bold">1 Foglio per Pagina</span>
                 <span className="text-[10px] text-stone-400">
-                  Formato A6 / blocco a strappo tradizionale (~10x15cm)
+                  Centrato a piena pagina A4, ideale da appendere o incorniciare
                 </span>
               </button>
 
@@ -187,7 +187,7 @@ export const PrintModal: React.FC<PrintModalProps> = ({
                 <Grid className="w-4 h-4 mb-1 text-emerald-400" />
                 <span className="block text-xs font-bold">Eco A4 (4 per Foglio)</span>
                 <span className="text-[10px] text-stone-400">
-                  Per stampare a casa su A4 con linee guida per il ritaglio
+                  Taglio singolo: 1 taglio verticale + 1 orizzontale dividono i 4 giorni (A6) senza rifili
                 </span>
               </button>
             </div>
