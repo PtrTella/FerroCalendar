@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 580" fill="none">
+  <!-- Outer red brush strokes -->
+  <g>
+    <!-- Top edge -->
+    <path d="M 25 18 C 90 15, 140 19, 180 16 M 220 16 C 260 19, 310 15, 375 18" stroke="#c92a2a" stroke-width="6" stroke-linecap="round" opacity="0.95"/>
+    <path d="M 30 20 C 100 18, 150 21, 185 19 M 215 19 C 250 21, 300 18, 370 20" stroke="#d93829" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
+    <!-- Left edge -->
+    <path d="M 20 25 C 17 120, 23 280, 19 380 C 16 440, 24 510, 21 555" stroke="#c92a2a" stroke-width="7" stroke-linecap="round" opacity="0.95"/>
+    <path d="M 24 40 C 22 150, 26 310, 23 420 C 21 470, 25 520, 24 550" stroke="#d93829" stroke-width="3.5" stroke-linecap="round" opacity="0.8"/>
+    <!-- Right edge -->
+    <path d="M 380 25 C 383 130, 377 270, 381 370 C 384 450, 376 500, 379 555" stroke="#c92a2a" stroke-width="7" stroke-linecap="round" opacity="0.95"/>
+    <path d="M 376 40 C 378 140, 374 300, 377 410 C 379 470, 375 520, 376 550" stroke="#d93829" stroke-width="3.5" stroke-linecap="round" opacity="0.8"/>
+    <!-- Bottom edge -->
+    <path d="M 25 560 C 110 563, 200 558, 290 562 C 320 561, 350 563, 375 560" stroke="#c92a2a" stroke-width="6" stroke-linecap="round" opacity="0.95"/>
+    <path d="M 35 558 C 120 559, 210 556, 300 560 C 330 559, 360 561, 365 558" stroke="#d93829" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
+    <!-- Top banner ribbon for 2027 -->
+    <path d="M 172 16 Q 200 10 228 16 L 230 35 Q 200 39 170 35 Z" fill="#c92a2a" opacity="0.98"/>
+    <path d="M 175 18 Q 200 13 225 18 L 227 33 Q 200 36 173 33 Z" fill="#a61e1e" opacity="0.9"/>
+  </g>
+  <!-- Inner charcoal strokes -->
+  <g>
+    <path d="M 32 35 C 30 160, 34 320, 31 430 C 29 480, 33 520, 32 545" stroke="#495057" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
+    <path d="M 368 35 C 370 150, 366 310, 369 420 C 371 475, 367 520, 368 545" stroke="#495057" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
+    <path d="M 35 30 C 80 28, 130 31, 170 29 M 230 29 C 270 31, 320 28, 365 30" stroke="#495057" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+    <path d="M 35 550 C 130 548, 260 552, 365 550" stroke="#495057" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+  </g>
+  <!-- Year 2027 -->
+  <text x="200" y="27" text-anchor="middle" dominant-baseline="central" fill="#ffffff" font-family="Georgia, serif" font-weight="bold" font-size="16" letter-spacing="2">2027</text>
+</svg>

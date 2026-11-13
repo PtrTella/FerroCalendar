@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "build:pdf": "python3 scripts/compile_typst_calendar.py",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },

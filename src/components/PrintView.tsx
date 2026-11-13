@@ -50,14 +50,14 @@ export const PrintView: React.FC<PrintViewProps> = ({
             }
             .a4-grid-sheet {
               width: 210mm;
-              height: 296.5mm;
-              max-height: 296.5mm;
-              margin: 0 !important;
+              height: 290mm;
+              max-height: 290mm;
+              margin: 0 auto !important;
               padding: 0 !important;
               position: relative;
               display: grid;
               grid-template-columns: 105mm 105mm;
-              grid-template-rows: 148.25mm 148.25mm;
+              grid-template-rows: 145mm 145mm;
               gap: 0;
               box-sizing: border-box;
               background: #ffffff !important;
@@ -75,14 +75,14 @@ export const PrintView: React.FC<PrintViewProps> = ({
             }
             .grid-quadrant {
               width: 105mm;
-              height: 148.25mm;
+              height: 145mm;
               max-width: 105mm;
-              max-height: 148.25mm;
+              max-height: 145mm;
               box-sizing: border-box;
               display: flex;
               align-items: center;
               justify-content: center;
-              padding: 4mm 4.5mm;
+              padding: 0 !important;
               background: #ffffff !important;
               overflow: hidden;
               position: relative;
@@ -90,7 +90,7 @@ export const PrintView: React.FC<PrintViewProps> = ({
             /* Single Cut Guidelines: 1 vertical, 1 horizontal across the entire A4 */
             .cut-guide-vertical {
               position: absolute;
-              left: 105mm;
+              left: 50%;
               top: 0;
               bottom: 0;
               width: 0;
@@ -100,7 +100,7 @@ export const PrintView: React.FC<PrintViewProps> = ({
             }
             .cut-guide-horizontal {
               position: absolute;
-              top: 148.25mm;
+              top: 50%;
               left: 0;
               right: 0;
               height: 0;
@@ -135,30 +135,30 @@ export const PrintView: React.FC<PrintViewProps> = ({
                   {/* Top tick mark */}
                   <div 
                     className="cut-tick" 
-                    style={{ left: '105mm', top: 0, width: '1px', height: '6mm', transform: 'translateX(-50%)' }} 
+                    style={{ left: '50%', top: 0, width: '1px', height: '6mm', transform: 'translateX(-50%)' }} 
                   />
                   {/* Bottom tick mark */}
                   <div 
                     className="cut-tick" 
-                    style={{ left: '105mm', bottom: 0, width: '1px', height: '6mm', transform: 'translateX(-50%)' }} 
+                    style={{ left: '50%', bottom: 0, width: '1px', height: '6mm', transform: 'translateX(-50%)' }} 
                   />
                   {/* Left tick mark */}
                   <div 
                     className="cut-tick" 
-                    style={{ left: 0, top: '148.25mm', height: '1px', width: '6mm', transform: 'translateY(-50%)' }} 
+                    style={{ left: 0, top: '50%', height: '1px', width: '6mm', transform: 'translateY(-50%)' }} 
                   />
                   {/* Right tick mark */}
                   <div 
                     className="cut-tick" 
-                    style={{ right: 0, top: '148.25mm', height: '1px', width: '6mm', transform: 'translateY(-50%)' }} 
+                    style={{ right: 0, top: '50%', height: '1px', width: '6mm', transform: 'translateY(-50%)' }} 
                   />
 
                   {/* Center intersection icon */}
                   <div 
                     className="absolute bg-white px-1 py-0.5 rounded text-[8px] text-stone-500 font-mono tracking-widest border border-stone-300 pointer-events-none z-40 flex items-center gap-1 select-none"
                     style={{ 
-                      top: '148.25mm', 
-                      left: '105mm', 
+                      top: '50%', 
+                      left: '50%', 
                       transform: 'translate(-50%, -50%)' 
                     }}
                   >
