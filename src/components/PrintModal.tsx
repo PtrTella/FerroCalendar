@@ -37,10 +37,13 @@ export const PrintModal: React.FC<PrintModalProps> = ({
     const mode: PrintMode = layoutMode === 'grid4' ? 'grid4' : 'single';
     onPreparePrint(mode, days);
 
-    // Give browser a split second to render the print DOM, then open system print
+    // CRITICAL: Close the modal immediately so it unmounts and removes the dark backdrop overlay!
+    onClose();
+
+    // Give browser time to finish React render & print layout, then open system print
     setTimeout(() => {
       window.print();
-    }, 150);
+    }, 250);
   };
 
   const getPageEstimate = () => {
@@ -58,7 +61,7 @@ export const PrintModal: React.FC<PrintModalProps> = ({
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/75 backdrop-blur-sm animate-fade-in">
+    <div className="no-print fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/75 backdrop-blur-sm animate-fade-in">
       <div 
         className="relative w-full max-w-lg bg-stone-900 border border-stone-800 rounded-2xl shadow-2xl p-5 overflow-hidden flex flex-col"
         onClick={(e) => e.stopPropagation()}

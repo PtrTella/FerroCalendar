@@ -187,40 +187,42 @@ export const App: React.FC = () => {
         </p>
       </footer>
 
-      {/* Modals and Drawers */}
-      <DateDrawer
-        isOpen={isDrawerOpen}
-        onClose={() => setIsDrawerOpen(false)}
-        currentDay={currentDay}
-        onSelectDay={handleSelectDay}
-      />
+      {/* Modals and Drawers - Strictly hidden in print */}
+      <div className="no-print">
+        <DateDrawer
+          isOpen={isDrawerOpen}
+          onClose={() => setIsDrawerOpen(false)}
+          currentDay={currentDay}
+          onSelectDay={handleSelectDay}
+        />
 
-      <SearchModal
-        isOpen={isSearchOpen}
-        onClose={() => setIsSearchOpen(false)}
-        onSelectDay={handleSelectDay}
-      />
+        <SearchModal
+          isOpen={isSearchOpen}
+          onClose={() => setIsSearchOpen(false)}
+          onSelectDay={handleSelectDay}
+        />
 
-      <SpecialDaysModal
-        isOpen={isSpecialOpen}
-        onClose={() => setIsSpecialOpen(false)}
-        onSelectDay={handleSelectDay}
-      />
+        <SpecialDaysModal
+          isOpen={isSpecialOpen}
+          onClose={() => setIsSpecialOpen(false)}
+          onSelectDay={handleSelectDay}
+        />
 
-      <ShareModal
-        isOpen={isShareOpen}
-        onClose={() => setIsShareOpen(false)}
-        day={currentDay}
-        year={year}
-      />
+        <ShareModal
+          isOpen={isShareOpen}
+          onClose={() => setIsShareOpen(false)}
+          day={currentDay}
+          year={year}
+        />
 
-      <PrintModal
-        isOpen={isPrintOpen}
-        onClose={() => setIsPrintOpen(false)}
-        currentDay={currentDay}
-        year={year}
-        onPreparePrint={handlePreparePrint}
-      />
+        <PrintModal
+          isOpen={isPrintOpen}
+          onClose={() => setIsPrintOpen(false)}
+          currentDay={currentDay}
+          year={year}
+          onPreparePrint={handlePreparePrint}
+        />
+      </div>
 
       {/* Dedicated Invisible Print View (activated only on @media print) */}
       <PrintView

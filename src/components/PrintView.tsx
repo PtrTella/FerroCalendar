@@ -50,28 +50,34 @@ export const PrintView: React.FC<PrintViewProps> = ({
             }
             .a4-grid-sheet {
               width: 210mm;
-              height: 297mm;
-              max-height: 297mm;
+              height: 296.5mm;
+              max-height: 296.5mm;
               margin: 0 !important;
               padding: 0 !important;
               position: relative;
               display: grid;
               grid-template-columns: 105mm 105mm;
-              grid-template-rows: 148.5mm 148.5mm;
+              grid-template-rows: 148.25mm 148.25mm;
               gap: 0;
-              page-break-after: always;
-              break-after: page;
-              page-break-inside: avoid;
-              break-inside: avoid;
               box-sizing: border-box;
               background: #ffffff !important;
               overflow: hidden;
+              page-break-inside: avoid;
+              break-inside: avoid;
+            }
+            .a4-grid-sheet:not(:last-child) {
+              page-break-after: always;
+              break-after: page;
+            }
+            .a4-grid-sheet:last-child {
+              page-break-after: auto;
+              break-after: auto;
             }
             .grid-quadrant {
               width: 105mm;
-              height: 148.5mm;
+              height: 148.25mm;
               max-width: 105mm;
-              max-height: 148.5mm;
+              max-height: 148.25mm;
               box-sizing: border-box;
               display: flex;
               align-items: center;
@@ -94,7 +100,7 @@ export const PrintView: React.FC<PrintViewProps> = ({
             }
             .cut-guide-horizontal {
               position: absolute;
-              top: 148.5mm;
+              top: 148.25mm;
               left: 0;
               right: 0;
               height: 0;
@@ -139,19 +145,19 @@ export const PrintView: React.FC<PrintViewProps> = ({
                   {/* Left tick mark */}
                   <div 
                     className="cut-tick" 
-                    style={{ left: 0, top: '148.5mm', height: '1px', width: '6mm', transform: 'translateY(-50%)' }} 
+                    style={{ left: 0, top: '148.25mm', height: '1px', width: '6mm', transform: 'translateY(-50%)' }} 
                   />
                   {/* Right tick mark */}
                   <div 
                     className="cut-tick" 
-                    style={{ right: 0, top: '148.5mm', height: '1px', width: '6mm', transform: 'translateY(-50%)' }} 
+                    style={{ right: 0, top: '148.25mm', height: '1px', width: '6mm', transform: 'translateY(-50%)' }} 
                   />
 
                   {/* Center intersection icon */}
                   <div 
                     className="absolute bg-white px-1 py-0.5 rounded text-[8px] text-stone-500 font-mono tracking-widest border border-stone-300 pointer-events-none z-40 flex items-center gap-1 select-none"
                     style={{ 
-                      top: '148.5mm', 
+                      top: '148.25mm', 
                       left: '105mm', 
                       transform: 'translate(-50%, -50%)' 
                     }}
@@ -207,20 +213,26 @@ export const PrintView: React.FC<PrintViewProps> = ({
           }
           .single-print-page {
             width: 210mm;
-            height: 297mm;
-            max-height: 297mm;
+            height: 296.5mm;
+            max-height: 296.5mm;
             margin: 0 !important;
             padding: 0 !important;
             display: flex;
             align-items: center;
             justify-content: center;
-            page-break-after: always;
-            break-after: page;
-            page-break-inside: avoid;
-            break-inside: avoid;
             background: #ffffff !important;
             box-sizing: border-box;
             overflow: hidden;
+            page-break-inside: avoid;
+            break-inside: avoid;
+          }
+          .single-print-page:not(:last-child) {
+            page-break-after: always;
+            break-after: page;
+          }
+          .single-print-page:last-child {
+            page-break-after: auto;
+            break-after: auto;
           }
           .single-print-leaf-container {
             width: 172mm;
