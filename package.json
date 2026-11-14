@@ -7,7 +7,9 @@
     "dev": "vite",
     "build:pdf": "python3 scripts/compile_typst_calendar.py",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "site:online": "bash scripts/site-online.sh",
+    "site:offline": "bash scripts/site-offline.sh"
   },
   "dependencies": {
     "canvas-confetti": "^1.9.4",

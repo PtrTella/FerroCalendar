@@ -1,9 +1,10 @@
 name: Build and Deploy
 
 on:
-  push:
-    branches: ['main']
-  workflow_dispatch:
+  workflow_dispatch: # Avvio manuale (ON/OFF gestito dall'utente con 'Run workflow')
+  # Per riattivare il deploy automatico a ogni commit, decommenta le righe sotto:
+  # push:
+  #   branches: ['main']
 
 permissions:
   contents: write
